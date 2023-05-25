@@ -1,0 +1,1183 @@
+﻿ID,Region of residence,Age of Subject,Time spent on Online Class,Rating of Online Class experience,Medium for online class,Time spent on self study,Time spent on fitness,Time spent on sleep,Time spent on social media,Prefered social media platform,Time spent on TV,Number of meals per day,Change in your weight,Health issue during lockdown,Stress busters,Time utilized,"Do you find yourself more connected with your family, close friends , relatives  ?",What you miss the most
+R1,Delhi-NCR,21,2,Good,Laptop/Desktop,4,0,7,3,Linkedin,1,4,Increased,NO,Cooking,YES,YES,School/college
+R2,Delhi-NCR,21,0,Excellent,Smartphone,0,2,10,3,Youtube,0,3,Decreased,NO,Scrolling through social media,YES,NO,Roaming around freely
+R3,Delhi-NCR,20,7,Very poor,Laptop/Desktop,3,0,6,2,Linkedin,0,3,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R4,Delhi-NCR,20,3,Very poor,Smartphone,2,1,6,5,Instagram,0,3,Decreased,NO,Watching web series,NO,NO,"Friends , relatives"
+R5,Delhi-NCR,21,3,Good,Laptop/Desktop,3,1,8,3,Instagram,1,4,Remain Constant,NO,Social Media,NO,NO,Travelling
+R6,Delhi-NCR,21,0,Very poor,Smartphone,6,0,5,1,Youtube,0,1,Decreased,YES,Coding and studying for exams,NO,YES,School/college
+R7,Delhi-NCR,19,2,Very poor,Smartphone,2,1,5,4,Instagram,0,3,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R8,Outside Delhi-NCR,19,2,Very poor,Tablet,1,1,10,5,Instagram,0,3,Increased,YES,Scrolling through social media,NO,YES,Eating outside
+R9,Delhi-NCR,21,3,Very poor,Laptop/Desktop,4,1,8,2,Whatsapp,1,3,Increased,NO,Online surfing,NO,NO,"Friends , relatives"
+R10,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,1,0.5,8,5,Instagram,3,3,Decreased,YES,live stream watching,NO,NO,School/college
+R11,Delhi-NCR,21,3,Good,Laptop/Desktop,3,1,8,3,Instagram,1,4,Remain Constant,NO,Social Media,NO,NO,Colleagues
+R12,Delhi-NCR,21,1,Very poor,Laptop/Desktop,0,1,7,3,Instagram,1,2,Increased,YES,Watching web series,YES,YES,Eating outside
+R13,Delhi-NCR,21,3,Average,Laptop/Desktop,0,0,8,3,Instagram,0,3,Increased,YES,Listening to music,NO,NO,School/college
+R14,Outside Delhi-NCR,22,1,Good,Laptop/Desktop,2,0,7,0,None,0.5,2,Increased,NO,Reading,YES,YES,Travelling
+R15,Delhi-NCR,20,5,Very poor,Laptop/Desktop,1,0,8,3,Instagram,0,3,Remain Constant,NO,Scrolling through social media,NO,NO,Eating outside
+R16,Delhi-NCR,22,3,Average,Smartphone,3,1,6,2,Instagram,1,3,Increased,NO,Online gaming,YES,YES,Eating outside
+R17,Outside Delhi-NCR,20,0,Good,Smartphone,0,0,8,2,Reddit,1,3,Increased,NO,Online gaming,NO,YES,Colleagues
+R18,Delhi-NCR,20,1,Very poor,Smartphone,2,1,8,1,Youtube,0,3,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R19,Delhi-NCR,21,0,Very poor,Laptop/Desktop,4,0,7,7,Youtube,n,2,Remain Constant,NO,Reading books,NO,NO,"Friends , relatives"
+R20,Delhi-NCR,22,5,Very poor,Smartphone,2,1,8,4,Instagram,0,3,Increased,NO,Dancing,YES,YES,"Friends , relatives"
+R21,Delhi-NCR,20,4,Excellent,Laptop/Desktop,5,0,6,2,Linkedin,1,2,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R22,Delhi-NCR,21,5,Average,Laptop/Desktop,2,1,10,5,Instagram,2,3,Remain Constant,NO,Talking with friends ,YES,NO,School/college
+R23,Delhi-NCR,21,4,Very poor,Smartphone,1,0,8,6,Instagram,1,4,Decreased,NO,Watching web series,NO,YES,School/college
+R24,Delhi-NCR,21,4,Average,Laptop/Desktop,2,1,7,1,Linkedin,0,3,Decreased,NO,Dancing,YES,YES,Travelling
+R25,Delhi-NCR,20,3,Very poor,Smartphone,4,2,9,2,Instagram,1,3,Decreased,NO,Reading books,YES,NO,School/college
+R26,Delhi-NCR,20,5,Very poor,Smartphone,2,0,9,5,Linkedin,3,2,Increased,NO,Talking to your relatives,YES,YES,Eating outside
+R27,Delhi-NCR,21,4,Very poor,Laptop/Desktop,5,0,8,3,Instagram,0,2,Increased,YES,Listening to music,NO,YES,School/college
+R28,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,0,9,2,Whatsapp,0,2,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R29,Delhi-NCR,31,8,Average,Laptop/Desktop,4,1,6,2,Linkedin,0.5,3,Remain Constant,NO,Listening to music,YES,YES,Job
+R30,Delhi-NCR,22,4,Very poor,Smartphone,6,1,5,3,Youtube,0,4,Remain Constant,NO,"sketching,reading books,meditation,songs",NO,NO,"Friends , relatives"
+R31,Delhi-NCR,19,4,Very poor,Smartphone,5,1,7,2,Whatsapp,1,2,Decreased,YES,Listening to music,YES,YES,Roaming around freely
+R32,Delhi-NCR,23,4,Excellent,Laptop/Desktop,18,1,8,2,Snapchat,0,2,Decreased,NO,Reading books,YES,YES,Travelling
+R33,Delhi-NCR,21,0,Very poor,NA,5,2,4,2,Omegle,0,3,Remain Constant,NO,Watching orgasm releasing videos,YES,NO,Nothing this is my usual life
+R34,Delhi-NCR,22,5,Very poor,Laptop/Desktop,1,0,6,2,Linkedin,0.5,3,Decreased,YES,Watching web series,YES,YES,"Friends , relatives"
+R35,Delhi-NCR,20,0,NA,NA,6,1,6,5,Instagram,0,4,Increased,NO,Talking to your relatives,YES,NO,Eating outside
+R36,Outside Delhi-NCR,21,6,Average,Smartphone,2,1,8,3,Instagram,1,3,Remain Constant,NO,Cooking,NO,YES,"Friends , relatives"
+R37,Delhi-NCR,17,4,Very poor,Laptop/Desktop,1,1,7,1.5,Instagram,0,3,Decreased,NO,Reading books,NO,YES,Travelling
+R38,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,2,0,8,2,Instagram,0,3,Increased,NO,Sleep,NO,YES,Eating outside
+R39,Outside Delhi-NCR,22,1,Very poor,Smartphone,2,0.5,8,2,Linkedin,2,3,Increased,NO,Listening to music,NO,YES,School/college
+R40,Delhi-NCR,20,0,NA,NA,8,0,8,0,Youtube,0,3,Increased,NO,Reading books,NO,YES,Travelling
+R41,Delhi-NCR,24,4,Good,Laptop/Desktop,4,2,6,4,Youtube,0,4,Increased,NO,Social Media,YES,YES,Travelling
+R42,Outside Delhi-NCR,21,0,Very poor,Laptop/Desktop,0,0,10,8,Youtube,1,4,Remain Constant,NO,Watching web series,YES,NO,Travelling
+R43,Delhi-NCR,20,7,Very poor,Smartphone,2,1,8,2,Whatsapp,2,4,Remain Constant,YES,Listening to music,NO,NO,Roaming around freely
+R44,Delhi-NCR,21,5,Very poor,Laptop/Desktop,3,1,8,1,Instagram,0,2,Increased,NO,Listening to music,NO,NO,Eating outside
+R45,Delhi-NCR,18,2,Average,Smartphone,2,3,12,1,Linkedin,0,4,Remain Constant,NO,Sleep,NO,NO,"Friends , relatives"
+R46,Delhi-NCR,22,3,Very poor,Laptop/Desktop,2,0,8,1,Instagram,0,4,Increased,NO,Cooking,NO,YES,Eating outside
+R47,Delhi-NCR,20,2,Very poor,Smartphone,6,2,7,1,Instagram,3,6,Decreased,NO,Listening to music,YES,NO,Roaming around freely
+R48,Delhi-NCR,20,2,Very poor,Smartphone,3,0,6,2,Youtube,0,3,Decreased,YES,Reading books,NO,NO,School/college
+R49,Delhi-NCR,21,3,Very poor,Laptop/Desktop,4,2,8,2,Twitter,0,4,Increased,NO,Listening to music,YES,YES,Travelling
+R50,Delhi-NCR,18,4,Good,Laptop/Desktop,2,0,8,4,Instagram,0,3,Remain Constant,NO,Social Media,YES,YES,Colleagues
+R51,Delhi-NCR,19,0,Very poor,Smartphone,1,0,8,2,Youtube,2,3,Remain Constant,YES,Online gaming,NO,YES,School/college
+R52,Delhi-NCR,20,5,Average,Laptop/Desktop,6,1,7,2,Whatsapp,0,3,Remain Constant,NO,Reading books,NO,YES,Roaming around freely
+R53,Delhi-NCR,21,3,Average,Laptop/Desktop,17,0,5,1,Youtube,0,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R54,Delhi-NCR,19,0,Average,Smartphone,2,2,10,1,Instagram,0.5,4,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R55,Delhi-NCR,21,4,Average,Smartphone,4,1,8,2,Youtube,2,4,Remain Constant,NO,Sleep,YES,YES,Gym
+R56,Delhi-NCR,19,4,Very poor,Smartphone,2,0,7,1,Whatsapp,0,3,Increased,YES,Watching web series,YES,YES,Roaming around freely
+R57,Delhi-NCR,19,2,Very poor,Smartphone,2,2,8,1,Youtube,0,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R58,Delhi-NCR,18,1,Very poor,Smartphone,8,0,8,5,Youtube,2,3,Increased,NO,Online surfing,YES,YES,School/college
+R59,Delhi-NCR,20,5,Average,Laptop/Desktop,1,1,7,1,Whatsapp,0,3,Increased,YES,Listening to music,NO,YES,School/college
+R60,Delhi-NCR,21,0,Very poor,Smartphone,5,0,8,1,Instagram,1,3,Remain Constant,NO,Online gaming,YES,NO,Eating outside
+R61,Delhi-NCR,22,6,Very poor,Laptop/Desktop,6,0,6,1,Instagram,0,2,Increased,NO,Watching web series,YES,NO,"Friends , relatives"
+R62,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,1,8,1,Instagram,2,4,Increased,NO,Sleep,YES,YES,Roaming around freely
+R63,Delhi-NCR,18,0,Very poor,Laptop/Desktop,2,1,6,5,Instagram,0,1,Remain Constant,NO,Crying,NO,YES,"Friends , relatives"
+R64,Delhi-NCR,20,2,Very poor,Laptop/Desktop,0,1,8,2,Instagram,0,3,Increased,NO,Watching web series,NO,YES,School/college
+R65,Delhi-NCR,23,2,Very poor,Smartphone,1,1,7,5,Instagram,1,4,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R66,Delhi-NCR,20,4,Average,Smartphone,4,2,7,2,Instagram,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R67,Outside Delhi-NCR,19,0,NA,NA,0,2,6,4,Instagram,0.5,3,Remain Constant,NO,Listening to music,NO,YES,Eating outside
+R68,Delhi-NCR,18,3,Average,Smartphone,1,1,8,3,Whatsapp,0.5,4,Remain Constant,NO,Dancing,YES,YES,Roaming around freely
+R69,Delhi-NCR,20,1.5,Very poor,Smartphone,3,2,9,1,Youtube,1,2,Decreased,YES,Sleep,NO,YES,Travelling
+R70,Delhi-NCR,19,2,Very poor,Tablet,2,1,8,5,Instagram,0,4,Decreased,NO,Scrolling through social media,NO,YES,Roaming around freely
+R71,Outside Delhi-NCR,20,2,Very poor,Smartphone,3,1,6,2,Instagram,1,4,Increased,NO,Listening to music,NO,NO,Travelling
+R72,Delhi-NCR,22,6,Very poor,Smartphone,4,0,7,2,Whatsapp,0,1,Increased,NO,Online gaming,NO,NO,Eating outside
+R73,Delhi-NCR,20,2,Very poor,Smartphone,2,0,7,3,Whatsapp,2,2,Remain Constant,NO,Reading books,NO,NO,"Friends , relatives"
+R74,Delhi-NCR,19,1,Average,Laptop/Desktop,0.5,1,7,5,Instagram,2,3,Remain Constant,NO,Many of these,NO,YES,"Friends , relatives"
+R75,Delhi-NCR,18,3,Very poor,Smartphone,2,2,8,8,Instagram,0,4,Remain Constant,NO,Listening to music,NO,YES,School/college
+R76,Outside Delhi-NCR,19,3,Average,Smartphone,5,0,5,4,Telegram,0,2,Increased,YES,Listening to music,YES,NO,Roaming around freely
+R77,Delhi-NCR,19,0,Very poor,Smartphone,1,1,8,2,Instagram,0,3,Decreased,NO,Listening to music,YES,YES,School/college
+R78,Delhi-NCR,20,3,Average,Laptop/Desktop,3,0,10,10,Facebook,4.5,3,Increased,NO,Scrolling through social media,NO,NO,School/college
+R79,Delhi-NCR,20,3,Excellent,Laptop/Desktop,0,1,8,5,Youtube,1,3,Increased,NO,Online surfing,NO,YES,School/college
+R80,Delhi-NCR,19,1,Good,Laptop/Desktop,4,0,8,2,None,0,4,Increased,NO,Web Series,YES,YES,Travelling
+R81,Delhi-NCR,21,5,Average,Laptop/Desktop,5,0,8,7,Instagram,1,2,Increased,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R82,Delhi-NCR,21,3,Good,Smartphone,2,1,10,1,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,Colleagues
+R83,Delhi-NCR,19,2,Very poor,Smartphone,2,0.5,9,3,Instagram,1,2,Increased,NO,Online gaming,YES,YES,School/college
+R84,Delhi-NCR,20,0,Very poor,Laptop/Desktop,1,1,12,2,Instagram,2,2,Increased,NO,Online gaming,NO,YES,Roaming around freely
+R85,Outside Delhi-NCR,21,1,Poor,Smartphone,8,0,10,1,Whatsapp,0,3,Decreased,NO,Sleep,YES,YES,School/college
+R86,Delhi-NCR,19,2,Very poor,Tablet,2,1,8,5,Instagram,0,4,Decreased,NO,Scrolling through social media,NO,YES,Roaming around freely
+R87,Delhi-NCR,20,5,Average,Smartphone,3,1,7,1.5,Instagram,0,3,Increased,YES,drawing ,YES,YES,School/college
+R88,Outside Delhi-NCR,21,4,Very poor,Smartphone,3,1,8,1,Linkedin,0,3,Decreased,NO,Meditation,NO,NO,All of them
+R89,Delhi-NCR,18,3,Very poor,Smartphone,4,1,7,1,Whatsapp,0,4,Remain Constant,YES,Listening to music,NO,NO,Eating outside
+R90,Outside Delhi-NCR,19,4,Average,Smartphone,3,1,7,3,Instagram,2,3,Increased,NO,Listening to music,YES,YES,School/college
+R91,Outside Delhi-NCR,25,4,Very poor,Smartphone,3,1,7,1,Instagram,0,3,Remain Constant,YES,Cricket,NO,NO,Eating outside
+R92,Delhi-NCR,19,0,Very poor,Smartphone,4,1,8,1,Whatsapp,0,3,Increased,NO,Listening to music,NO,YES,School/college
+R93,Delhi-NCR,19,4,Very poor,Laptop/Desktop,0,0,8,2,Instagram,1.5,3,Increased,YES,Anime Manga,NO,NO,School/college
+R94,Delhi-NCR,20,4,Good,Smartphone,2,2,8,6,Instagram,0,3,Decreased,NO,Sleeping,YES,YES,School/college
+R95,Delhi-NCR,20,2,Average,Smartphone,3,1,5,4,Instagram,1,3,Increased,NO,Listening to music,NO,YES,School/college
+R96,Delhi-NCR,19,5,Good,Tablet,3,1,8,2,Snapchat,0,2,Remain Constant,NO,Reading,NO,YES,Travelling
+R97,Delhi-NCR,19,3,Average,Smartphone,1,0,10,4,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R98,Delhi-NCR,22,2,Average,Smartphone,0,0,12,4,Instagram,2,3,Increased,NO,Online gaming,NO,YES,Eating outside
+R99,Outside Delhi-NCR,21,1,Good,Smartphone,3,2,10,1,Youtube,2,4,Increased,YES,Meditation,NO,YES,Colleagues
+R100,Delhi-NCR,21,1,Very poor,Smartphone,2,1,8,1,Whatsapp,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R101,Outside Delhi-NCR,16,6,Poor,Smartphone,2,2,7,2,Youtube,1,3,Remain Constant,NO,Scrolling through social media,YES,YES,Travelling
+R102,Outside Delhi-NCR,21,3,Average,Laptop/Desktop,5,0,8,7,Linkedin,1,2,Remain Constant,NO,Watching web series,NO,YES,School/college
+R103,Outside Delhi-NCR,21,4,Very poor,Smartphone,4,1,7,1,Whatsapp,0,4,Decreased,YES,Listening to music,YES,NO,Travelling
+R104,Outside Delhi-NCR,16,3,Very poor,Smartphone,3,1,7,3,Youtube,1,2,Remain Constant,NO,Listening to music,NO,NO,Friends and School
+R105,Delhi-NCR,21,2,Very poor,Smartphone,7,2,8,0.5,Instagram,0,5,Increased,NO,Reading books,YES,YES,Gym
+R106,Outside Delhi-NCR,23,4,Excellent,Laptop/Desktop,6,1,8,0.3,Whatsapp,0,3,Increased,NO,Talking to your relatives,YES,NO,Travelling
+R107,Delhi-NCR,19,2,Very poor,Smartphone,1.5,1,7,2,Youtube,N,2,Remain Constant,NO,Listening to music,NO,NO,School/college
+R108,Delhi-NCR,20,1,Very poor,Smartphone,2,1,8,1,Instagram,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R109,Delhi-NCR,18,2,Very poor,Smartphone,3,1,8,1,Instagram,1,3,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R110,Outside Delhi-NCR,10,3,Good,Tablet,3,0,10,1,Youtube,4,3,Remain Constant,NO,Online gaming,YES,NO,Colleagues
+R111,Outside Delhi-NCR,20,0,Very poor,Smartphone,2,2,8,0.15,Linkedin,0.3,2,Decreased,NO,Talking to your relatives,YES,YES,School/college
+R112,Delhi-NCR,21,3,Average,Smartphone,3,0,11,2,Whatsapp,N,2,Increased,YES,Sleep,NO,YES,School/college
+R113,Delhi-NCR,19,1,Very poor,Smartphone,4,1,8,1,Youtube,0,4,Remain Constant,NO,Sleep,NO,YES,School/college
+R114,Outside Delhi-NCR,14,5,Average,Laptop/Desktop,4,1,7,4,Instagram,1,5,Increased,NO,Scrolling through social media,NO,NO,"Friends,Romaing and traveling"
+R115,Delhi-NCR,18,2,Very poor,Smartphone,3,1,10,2,Whatsapp,0,3,Remain Constant,NO,Online gaming,NO,YES,School/college
+R116,Delhi-NCR,18,3,Very poor,Smartphone,6,0,7,3,Youtube,1,3,Remain Constant,NO,Reading books,YES,NO,School/college
+R117,Outside Delhi-NCR,24,4,Excellent,Laptop/Desktop,8,1,8,2,Youtube,2,3,Increased,NO,Online surfing,YES,YES,"Friends , relatives"
+R118,Outside Delhi-NCR,14,3,Good,Smartphone,5,1,12,0.3,Instagram,1,3,Remain Constant,NO,Sleeping,YES,YES,Colleagues
+R119,Outside Delhi-NCR,21,4,Good,Laptop/Desktop,2,2,7,2,Instagram,1,3,Increased,NO,Dancing,YES,YES,Travelling
+R120,Delhi-NCR,19,2,Average,Smartphone,6,1,6,1,Instagram,0,3,Increased,NO,Watching web series,NO,YES,School/college
+R121,Delhi-NCR,18,2.5,Average,Smartphone,2,1,8,1,Youtube,0,4,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R122,Outside Delhi-NCR,23,6,Average,Laptop/Desktop,5,1,6,1,Linkedin,0,3,Remain Constant,NO,Meditation,YES,YES,School/college
+R123,Outside Delhi-NCR,21,4,Average,Smartphone,4,1,8,1,Youtube,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R124,Delhi-NCR,18,5,Very poor,Smartphone,3,0,9,7,Whatsapp,0,3,Increased,NO,Watching web series,YES,NO,Roaming around freely
+R125,Delhi-NCR,19,1,Very poor,Smartphone,2,0,7,1,Whatsapp,0,2,Increased,YES,Sleep,NO,NO,School/college
+R126,Outside Delhi-NCR,20,5,Average,Smartphone,4,1,7,2,Whatsapp,1,3,Increased,NO,Meditation,YES,YES,School/college
+R127,Delhi-NCR,20,2,Average,Smartphone,3,0.5,6.5,1,Whatsapp,0.5,3,Remain Constant,NO,Listening to music,YES,YES,Roaming around freely
+R128,Delhi-NCR,19,2,Very poor,Smartphone,4,1,8,2,Youtube,0,4,Decreased,NO,Sketching and writing,NO,NO,Roaming around freely
+R129,Outside Delhi-NCR,15,1,Good,Smartphone,3,1,6,4,Whatsapp,1.5,4,Increased,NO,Listening to music,YES,YES,School/college
+R130,Delhi-NCR,19,0,NA,NA,1,3,8,5,Instagram,1,1,Decreased,NO,Listening to music,NO,YES,Eating outside
+R131,Outside Delhi-NCR,20,3,Very poor,Smartphone,3,0,9,2,Youtube,2,2,Decreased,NO,Meditation,YES,YES,Travelling
+R132,Delhi-NCR,17,6,Average,Laptop/Desktop,4,1,8,1,Youtube,1,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R133,Delhi-NCR,18,2,Very poor,Smartphone,2,1,9,2,Linkedin,2,2,Increased,NO,Watching web series,YES,YES,Travelling
+R134,Delhi-NCR,20,2,Very poor,Smartphone,4,0,10,4,Whatsapp,2,3,Decreased,NO,Cooking,NO,YES,School/college
+R135,Delhi-NCR,18,5,Average,Smartphone,1,1,8,1,Youtube,0,4,Increased,NO,Sleep,YES,YES,Roaming around freely
+R136,Delhi-NCR,22,0.1,Poor,Smartphone,2.5,1,12,0.3,Youtube,0,5,Increased,NO,Online gaming,NO,YES,Only friends
+R137,Delhi-NCR,18,3,Very poor,Smartphone,5,1,7,2,Youtube,0,3,Remain Constant,NO,Online gaming,NO,YES,Roaming around freely
+R138,Delhi-NCR,15,4,Average,Smartphone,2,0.5,6,1,Whatsapp,1,3,Remain Constant,NO,Dancing,NO,YES,Eating outside
+R139,Outside Delhi-NCR,22,1,Very poor,Laptop/Desktop,10,1,7,1,Whatsapp,0,3,Remain Constant,NO,Writing,YES,YES,Roaming around freely
+R140,Delhi-NCR,19,3,Very poor,Laptop/Desktop,2,1,9,1,Youtube,0,3,Decreased,NO,Online gaming,NO,YES,School/college
+R141,Delhi-NCR,20,3,Very poor,Smartphone,5,0,7,2,Instagram,1,2,Remain Constant,YES,Watching web series,YES,YES,School/college
+R142,Outside Delhi-NCR,20,3,Very poor,Smartphone,3,0,9,2,Youtube,2,2,Decreased,NO,Meditation,YES,YES,Travelling
+R143,Delhi-NCR,20,1,Very poor,Smartphone,1,0,6,0,None,0,2,Increased,NO,Sleep,YES,YES,School/college
+R144,Delhi-NCR,18,2,Poor,Smartphone,6,1,7,1,Youtube,1,2,Increased,NO,Listening to music,YES,YES,"Friends , relatives"
+R145,Delhi-NCR,19,2,Very poor,Smartphone,2,2,8,2,Youtube,3,2,Increased,NO,Watching web series,YES,YES,Eating outside
+R146,Outside Delhi-NCR,14,4,Average,Smartphone,2,1,8,2,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R147,Delhi-NCR,20,6,Average,Laptop/Desktop,1,1,6,1,Linkedin,0,3,Increased,YES,Talking to your relatives,YES,YES,School/college
+R148,Delhi-NCR,20,3,Average,Laptop/Desktop,2,1,8,2,Linkedin,2,3,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R149,Delhi-NCR,19,6,Very poor,Smartphone,3,0,7,2,Whatsapp,0.5,2,Increased,YES,Online gaming,NO,YES,"Friends , relatives"
+R150,Delhi-NCR,19,1,Average,Laptop/Desktop,1,1,10,1,Instagram,0,3,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R151,Delhi-NCR,18,2,Very poor,Smartphone,2,1,10,2,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,NO,Eating outside
+R152,Outside Delhi-NCR,21,4,Very poor,Smartphone,4,1,8,2,Instagram,0,3,Increased,NO,Sleep,NO,YES,Roaming around freely
+R153,Outside Delhi-NCR,15,4,Average,Smartphone,7,2,6,1,Instagram,1,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R154,Delhi-NCR,20,5,Very poor,Tablet,3,1,8,2,Whatsapp,3,4,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R155,Outside Delhi-NCR,21,1,Very poor,Smartphone,3,0,6,1,Instagram,1,1,Decreased,YES,Reading books,NO,YES,Eating outside
+R156,Delhi-NCR,19,0.5,Very poor,Smartphone,7,2,7,0.1,Instagram,0,4,Remain Constant,YES,Listening to music,YES,YES,"Friends , relatives"
+R157,Delhi-NCR,20,3,Very poor,Laptop/Desktop,1,0,6,2,Facebook,0,2,Increased,NO,pubg,NO,YES,Eating outside
+R158,Delhi-NCR,21,5,Average,Smartphone,1,0,5,1,Whatsapp,0,2,Decreased,NO,Online gaming,NO,NO,Travelling
+R159,Delhi-NCR,21,4,Excellent,Laptop/Desktop,6,2,6,1,Youtube,1,3,Remain Constant,NO,Cooking,YES,YES,Eating outside
+R160,Delhi-NCR,21,3,Very poor,Smartphone,2,0,7,2,Twitter,0,3,Increased,YES,Reading books,NO,YES,School/college
+R161,Delhi-NCR,20,4,Average,Laptop/Desktop,2,0,7,2,Snapchat,4,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R162,Outside Delhi-NCR,20,6,Very poor,Smartphone,3,0,8,4,Linkedin,2,3,Increased,YES,Sleep,NO,YES,School/college
+R163,Outside Delhi-NCR,23,0,Very poor,Laptop/Desktop,1,0,10,4,Linkedin,0,4,Increased,NO,Online gaming,NO,YES,Travelling
+R164,Outside Delhi-NCR,21,4,Very poor,Smartphone,3,1,8,1,Youtube,1,3,Remain Constant,YES,Online surfing,NO,YES,"Friends , relatives"
+R165,Delhi-NCR,22,1,Very poor,Smartphone,4,1,7,2,Linkedin,0,2,Increased,YES,Watching web series,NO,NO,Roaming around freely
+R166,Delhi-NCR,23,3,Good,Tablet,0,0,12,4,Instagram,0,2,Increased,NO,Cooking,NO,NO,Travelling
+R167,Delhi-NCR,22,4,Good,Smartphone,4,0.5,8,2,Whatsapp,0,3,Increased,NO,Sleeping,YES,NO,School/college
+R168,Outside Delhi-NCR,21,0,Very poor,Smartphone,1,0,7,10,Whatsapp,0,7,Increased,NO,Listening to music,NO,YES,School/college
+R169,Outside Delhi-NCR,20,0,Very poor,Smartphone,3,2,12,1,Instagram,0,3,Increased,NO,Scrolling through social media,NO,NO,School/college
+R170,Outside Delhi-NCR,15,4,Average,Smartphone,2,3,7,1,Instagram,2,4,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R171,Outside Delhi-NCR,20,0,Very poor,Smartphone,3,2,8,2,Whatsapp,1,3,Remain Constant,YES,Listening to music,YES,YES,School/college
+R172,Outside Delhi-NCR,20,0,Very poor,Smartphone,1,0,8,0.5,Whatsapp,1,3,Decreased,YES,Reading books,NO,YES,Roaming around freely
+R173,Outside Delhi-NCR,16,4,Excellent,Laptop/Desktop,3,2,10,1,Youtube,1,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R174,Outside Delhi-NCR,22,1,Average,Smartphone,3,1,7,1,Whatsapp,0,3,Remain Constant,NO,Sleep,NO,YES,School/college
+R175,Delhi-NCR,20,5,Average,Laptop/Desktop,4,0,10,2,Linkedin,4,3,Decreased,NO,Sleep,YES,YES,Roaming around freely
+R176,Outside Delhi-NCR,21,0,Good,Smartphone,4,1,8,2,Instagram,0,2,Decreased,YES,Online gaming,YES,YES,Colleagues
+R177,Outside Delhi-NCR,34,3,Good,Laptop/Desktop,3,1,7,1,Whatsapp,2,3,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R178,Outside Delhi-NCR,22,0,Average,Laptop/Desktop,3,1,9,0,Telegram,2,5,Decreased,NO,Watching web series,NO,YES,Roaming around freely
+R179,Delhi-NCR,22,6,Good,Laptop/Desktop,2,1,8,4,Instagram,0,4,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R180,Outside Delhi-NCR,21,1,Average,Laptop/Desktop,1,2,7,2,Youtube,1,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R181,Outside Delhi-NCR,20,1,Very poor,Smartphone,2,1,8,3,Whatsapp,0,3,Remain Constant,NO,Watching web series,YES,NO,"Friends , relatives"
+R182,Outside Delhi-NCR,21,3,Average,Smartphone,0.5,3,6,2,Instagram,0,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R183,Outside Delhi-NCR,19,2,Very poor,Smartphone,2,1,8,2,Instagram,2,3,Increased,YES,Listening to music,YES,YES,Roaming around freely
+R184,Outside Delhi-NCR,22,1,Very poor,Smartphone,7,0,7,1,Facebook,0,3,Remain Constant,NO,Talking to your relatives,YES,YES,"Friends , relatives"
+R185,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,1.5,1,6,2,Reddit,1.5,2,Decreased,YES,Watching web series,NO,NO,"Friends , relatives"
+R186,Outside Delhi-NCR,14,4,Very poor,Smartphone,1,0,9,1.5,Whatsapp,5,3,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R187,Delhi-NCR,22,1,Average,Smartphone,4,0.5,11,1,Instagram,0,3,Remain Constant,YES,Listening to music,NO,NO,School/college
+R188,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,5,0,8,3,Instagram,1,3,Increased,NO,Listening to music,YES,YES,School/college
+R189,Delhi-NCR,19,2,Poor,Smartphone,10,0.25,8,2,Instagram,0,3,Increased,NO,Talking to your relatives,YES,YES,School/college
+R190,Outside Delhi-NCR,21,1,Average,Smartphone,0,1,6,2,Whatsapp,0,2,Decreased,NO,Online gaming,NO,YES,School/college
+R191,Outside Delhi-NCR,15,5,Average,Smartphone,5,0,7,3,Instagram,2,3,Remain Constant,NO,Watching web series,NO,YES,School/college
+R192,Outside Delhi-NCR,21,3,Good,Laptop/Desktop,3,0.5,8,4,Youtube,0,3,Remain Constant,NO,Web Series,NO,YES,Colleagues
+R193,Delhi-NCR,21,3,Very poor,Smartphone,8,3,7,3,Youtube,0,3,Decreased,YES,Talking to your relatives,NO,NO,School/college
+R194,Outside Delhi-NCR,34,3,Average,Laptop/Desktop,3,1,8,1,Whatsapp,1,3,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R195,Outside Delhi-NCR,22,3,Very poor,Laptop/Desktop,0,5,8,10,Twitter,No tv,3,Remain Constant,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R196,Outside Delhi-NCR,34,1.5,Poor,Laptop/Desktop,1,0,6,1,Linkedin,0,2,Remain Constant,YES,Online surfing,NO,NO,Taking kids to park
+R197,Delhi-NCR,21,4,Good,Laptop/Desktop,4,1,7,2,Instagram,2,3,Remain Constant,NO,Talking,YES,YES,Colleagues
+R198,Outside Delhi-NCR,20,3,Average,Laptop/Desktop,3,1,7,1,Instagram,0,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R199,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,5,0,7.5,2,Whatsapp,0.5,4,Increased,NO,Sleep,YES,NO,School/college
+R200,Outside Delhi-NCR,25,2,Very poor,Laptop/Desktop,3,1,8,4,Facebook,1,2,Increased,NO,Watching web series,NO,NO,Roaming around freely
+R201,Outside Delhi-NCR,19,0.5,Very poor,Smartphone,3,1,8,1,Instagram,0,2,Remain Constant,NO,Sleep,YES,YES,School/college
+R202,Delhi-NCR,26,5,Average,Laptop/Desktop,10,1,8,1,Youtube,0.5,2,Remain Constant,NO,Meditation,YES,YES,Roaming around freely
+R203,Outside Delhi-NCR,20,3,Good,Laptop/Desktop,4,0,8,2,Youtube,0,3,Remain Constant,NO,Cooking,YES,YES,Travelling
+R204,Delhi-NCR,24,7,Very poor,Laptop/Desktop,7,2,7,2,Youtube,0,3,Remain Constant,NO,Reading books,YES,YES,Travelling
+R205,Delhi-NCR,21,0,Very poor,Laptop/Desktop,0,2,12,6,Facebook,0,4,Increased,NO,Watching web series,NO,NO,Travelling
+R206,Delhi-NCR,20,5,Good,Smartphone,2.5,1,9,3,Instagram,0.5,2,Remain Constant,NO,Dancing,YES,YES,School/college
+R207,Delhi-NCR,16,7,Average,Tablet,4,1,7,1,Whatsapp,0,3,Remain Constant,NO,Reading books,YES,YES,All of the above 
+R208,Delhi-NCR,17,6,Average,Laptop/Desktop,1,0,7,2,Reddit,0,2,Remain Constant,NO,Online gaming,YES,NO,"Friends , relatives"
+R209,Delhi-NCR,59,3,Average,Smartphone,6,1,9,0.5,Whatsapp,1,2,Increased,NO,Sleep,YES,YES,School/college
+R210,Delhi-NCR,17,7,Good,Smartphone,4,0,7,1,Whatsapp,1,2,Increased,NO,Listening to music,YES,NO,School/college
+R211,Delhi-NCR,16,6,Very poor,Smartphone,5,0,7,2,Youtube,0,3,Increased,NO,Online surfing,NO,YES,"Friends , relatives"
+R212,Outside Delhi-NCR,20,3,Average,Laptop/Desktop,4,1,7,2,Linkedin,2,3,Remain Constant,NO,Talking to your relatives,YES,NO,School/college
+R214,Delhi-NCR,17,6,Very poor,Smartphone,1.5,2,7,2,Instagram,0.5,4,Increased,NO,Workout ,YES,NO,Travelling
+R215,Delhi-NCR,17,6,Average,Laptop/Desktop,5,0.5,7,1,Whatsapp,1,2,Remain Constant,NO,Listening to music,NO,NO,Eating outside
+R216,Delhi-NCR,20,3,Good,Laptop/Desktop,4,0,7,4,Whatsapp,0,2,Remain Constant,YES,Social Media,YES,YES,Colleagues
+R217,Outside Delhi-NCR,17,6,Average,Tablet,2,1,7,1,Whatsapp,1,4,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R218,Delhi-NCR,20,4,Very poor,Smartphone,2,0,7,0.5,Whatsapp,0.5,3,Increased,NO,Sleep,NO,NO,School/college
+R219,Outside Delhi-NCR,16,8,Good,Laptop/Desktop,7,0,6,1,Whatsapp,0.5,3,Remain Constant,NO,Social Media,NO,NO,Travelling
+R220,Delhi-NCR,19,0.5,Very poor,Smartphone,5,0.5,10,1,Whatsapp,1,2,Remain Constant,YES,Meditation,YES,NO,School/college
+R221,Delhi-NCR,20,0,Very poor,Laptop/Desktop,2,0,10,3,Instagram,2,4,Increased,NO,Sleep,NO,YES,"Friends , relatives"
+R222,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,3,1,8,3,Whatsapp,0,4,Increased,NO,Online gaming,YES,NO,Travelling
+R223,Outside Delhi-NCR,17,9,Poor,Laptop/Desktop,3,0,5,0.5,Instagram,1,3,Remain Constant,NO,Listening to music,NO,NO,All the above
+R224,Delhi-NCR,23,1,Very poor,Smartphone,8,2,8,2,Instagram,2,3,Decreased,NO,Online gaming,YES,YES,"Friends , relatives"
+R225,Outside Delhi-NCR,22,0,Very poor,Laptop/Desktop,3,0,10,8,Instagram,0,2,Increased,YES,Watching web series,YES,YES,"Friends , relatives"
+R226,Delhi-NCR,22,1.5,Average,Laptop/Desktop,0,0,9,6,Instagram,2,3,Increased,NO,Scrolling through social media,YES,YES,School/college
+R227,Outside Delhi-NCR,19,2,Very poor,Smartphone,2,1,8,2,Whatsapp,1,3,Decreased,YES,Scrolling through social media,NO,YES,Roaming around freely
+R228,Delhi-NCR,19,2,Very poor,Smartphone,5,1,9,2,Twitter,0,4,Remain Constant,NO,Listening to music,YES,NO,School/college
+R229,Outside Delhi-NCR,23,1,Very poor,Laptop/Desktop,1,0,8,5,Whatsapp,0,4,Increased,NO,Talking to your relatives,NO,YES,Eating outside
+R230,Outside Delhi-NCR,32,4,Good,Laptop/Desktop,5,2,5,3,Facebook,0,3,Remain Constant,NO,Reading,YES,YES,Colleagues
+R231,Delhi-NCR,17,6,Average,Smartphone,12,1,8,2,Whatsapp,3,4,Remain Constant,NO,Sleep,NO,NO,Travelling
+R232,Delhi-NCR,21,0,NA,NA,10,1,5,0.5,Linkedin,0,4,Remain Constant,NO,Cooking,NO,NO,Internet
+R233,Delhi-NCR,22,4,Average,Laptop/Desktop,3,2,8,2,Whatsapp,0.5,4,Increased,NO,Sleep,YES,YES,Roaming around freely
+R234,Outside Delhi-NCR,17,6,Very poor,Any Gadget,4,2.5,8,0.5,Instagram,0,3,Remain Constant,NO,Reading books,YES,YES,School/college
+R235,Outside Delhi-NCR,17,5,Average,Laptop/Desktop,1.5,2,8,1,Youtube,3,3,Decreased,NO,Cooking,YES,YES,"Friends , relatives"
+R236,Delhi-NCR,22,5,Good,Laptop/Desktop,10,1,6,1,Elyment,0,3,Remain Constant,YES,Online gaming,YES,YES,School/college
+R237,Outside Delhi-NCR,18,2,Very poor,Smartphone,2,2,9,4,Youtube,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R238,Delhi-NCR,20,5,Very poor,Laptop/Desktop,12,0,7,1,Reddit,0,3,Increased,NO,Reading books,NO,YES,Roaming around freely
+R239,Outside Delhi-NCR,30,3,Average,Smartphone,1,0.5,4,1,Whatsapp,0.5,2,Remain Constant,NO,Meditation,YES,YES,School/college
+R240,Delhi-NCR,19,1,Average,Laptop/Desktop,1,0,8,1,Youtube,2,4,Remain Constant,NO,Whatever want,NO,NO,Eating outside
+R241,Outside Delhi-NCR,14,3,Good,Laptop/Desktop,2,0,8,1,Whatsapp,1,1,Increased,NO,Cooking,YES,YES,School/college
+R242,Outside Delhi-NCR,19,0,NA,NA,2,1,8,4,Instagram,0,3,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R243,Outside Delhi-NCR,16,7,Average,Smartphone,3,2,11,1.5,Instagram,1,3,Decreased,YES,Online gaming,NO,YES,School/college
+R244,Delhi-NCR,17,6,Average,Smartphone,2,1,9,3,Instagram,0.5,3,Remain Constant,NO,Sleep,NO,YES,"Friends , relatives"
+R245,Delhi-NCR,20,1,Very poor,Tablet,2,2,8,1,Youtube,0,2,Decreased,NO,Reading books,NO,YES,School/college
+R246,Delhi-NCR,17,4,Good,Smartphone,2,0,7,3,Instagram,2,4,Increased,NO,Social Media,YES,YES,School/college
+R247,Delhi-NCR,20,6,Average,Any Gadget,2,0,6,4,Instagram,0,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R249,Outside Delhi-NCR,17,5,Average,Smartphone,4,2,7,2,Youtube,2,2,Increased,NO,Online gaming,NO,YES,School/college
+R250,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,0,7,2,Facebook,2,3,Remain Constant,NO,Online gaming,YES,NO,Going to the movies
+R251,Delhi-NCR,16,4,Poor,Laptop/Desktop,0,0,9,1,Whatsapp,1,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R252,Delhi-NCR,21,5,Average,Smartphone,2,2,6,5,Instagram,0,3,Increased,NO,Scrolling through social media,NO,YES,Roaming around freely
+R253,Delhi-NCR,18,0,NA,NA,8,0.5,5,3,Linkedin,1,3,Remain Constant,NO,Dancing,YES,YES,Travelling
+R254,Outside Delhi-NCR,20,4,Good,Laptop/Desktop,5,1,7,0.1,Whatsapp,0,4,Remain Constant,NO,Reading,NO,NO,School/college
+R255,Outside Delhi-NCR,14,4,Average,Smartphone,4,0,8,2,Instagram,2,3,Increased,NO,Listening to music,NO,YES,School/college
+R256,Delhi-NCR,19,3,Good,Laptop/Desktop,2,0,8,5,Youtube,1.5,3,Increased,NO,Web Series,NO,YES,School/college
+R257,Delhi-NCR,18,0,Very poor,Laptop/Desktop,3,0,8,4,Facebook,1,3,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R258,Outside Delhi-NCR,13,5,Very poor,Laptop/Desktop,4,1,8,10,Whatsapp,0,3,Decreased,NO,Cooking,NO,NO,School/college
+R259,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,8,0,6,1,Instagram,0,3,Decreased,NO,Listening to music,YES,YES,Eating outside
+R260,Outside Delhi-NCR,19,0,Very poor,Laptop/Desktop,4,0.3,8,2,Whatsapp,0,2,Remain Constant,NO,Talking to your relatives,NO,NO,School/college
+R261,Outside Delhi-NCR,15,5,Average,Smartphone,1,0,7,1,Youtube,1.5,3,Remain Constant,NO,Online gaming,NO,YES,School/college
+R262,Outside Delhi-NCR,20,1,Very poor,Smartphone,0,0,10,5,Youtube,1,2,Increased,YES,Sleep,NO,YES,School/college
+R263,Delhi-NCR,19,0,Very poor,Laptop/Desktop,1,0,8,4,Twitter,2,3,Increased,NO,Watching web series,NO,NO,"Friends , relatives"
+R264,Outside Delhi-NCR,21,3,Good,Laptop/Desktop,3,1,6,0.5,Whatsapp,0.5,2,Increased,YES,Listening to music,YES,NO,Travelling
+R265,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,2,1,8,4,Youtube,0,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R266,Delhi-NCR,20,4,Good,Laptop/Desktop,5,1,6,2,Youtube,0.5,2,Remain Constant,NO,Listening to music,NO,YES,Colleagues
+R267,Outside Delhi-NCR,16,6,Good,Laptop/Desktop,3,0,7,1,Whatsapp,1,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R268,Delhi-NCR,21,2,Poor,Laptop/Desktop,2,1,5,3,Whatsapp,1,3,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R269,Delhi-NCR,17,5.5,Good,Smartphone,5,1,9,1,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,Colleagues
+R270,Delhi-NCR,21,0,Average,Laptop/Desktop,12,0,7,3,Youtube,0,3,Remain Constant,NO,Reading books,YES,YES,Nothing
+R271,Delhi-NCR,20,0,Good,Smartphone,0,0,7.5,3.5,Youtube,2,3,Remain Constant,NO,Indoor Games,YES,YES,Nothing
+R272,Delhi-NCR,21,4,Average,Laptop/Desktop,2,1,8,3,Instagram,N,2,Remain Constant,NO,Online gaming,NO,NO,Eating outside
+R273,Delhi-NCR,20,3,Very poor,Smartphone,5,1,7,1,Whatsapp,0,3,Increased,NO,Sleep,NO,YES,Roaming around freely
+R274,Outside Delhi-NCR,16,4,Poor,Smartphone or Laptop/Desktop,2.5,0.5,6,0.5,Whatsapp,1,3,Remain Constant,NO,"watching movies,reading books,games,listening to music,sleep,dancing",YES,YES,"school, relatives and friends"
+R275,Outside Delhi-NCR,19,0,Very poor,Laptop/Desktop,8,1,8,2,Whatsapp,0,2,Increased,YES,Cooking,YES,YES,Roaming around freely
+R276,Delhi-NCR,19,1,Very poor,Laptop/Desktop,3,0,8,3,Instagram,3,3,Increased,YES,Listening to music,YES,YES,Roaming around freely
+R278,Outside Delhi-NCR,19,1,Excellent,Laptop/Desktop,1,3,9,2,Youtube,0,5,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R279,Delhi-NCR,20,2,Good,Laptop/Desktop,1,0,10,1,Whatsapp,0,2,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R280,Delhi-NCR,19,2,Average,Smartphone,3,1,9,3,Whatsapp,3,3,Increased,NO,Sleep,NO,YES,School/college
+R281,Outside Delhi-NCR,17,7,Average,Laptop/Desktop,2,0,6,2,Youtube,2,2,Increased,NO,Sleep,YES,YES,School/college
+R282,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,0,8,3,Whatsapp,5,3,Decreased,NO,Watching web series,NO,NO,Roaming around freely
+R283,Outside Delhi-NCR,17,6,Good,Smartphone,4,0,7,1,Whatsapp,2,3,Decreased,NO,Listening to music,YES,NO,School/college
+R285,Delhi-NCR,25,5,Average,Laptop/Desktop,6,0,8,1,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R286,Delhi-NCR,19,3,Average,Laptop/Desktop,6,0.5,8,0.6,Linkedin,1.5,4,Increased,NO,Reading books,YES,YES,School/college
+R287,Delhi-NCR,16,5,Very poor,Smartphone,2,1,8,2,Whatsapp,N,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R288,Delhi-NCR,17,7,Good,Smartphone,5,0.5,7,2,Whatsapp,2,3,Increased,NO,Online gaming,NO,NO,All 
+R289,Delhi-NCR,18,1,Average,Smartphone,2,0,10,1,Instagram,0.5,2,Remain Constant,NO,Reading books,NO,NO,Roaming around freely
+R290,Outside Delhi-NCR,20,5,Excellent,Laptop/Desktop,1,1,8,3,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R291,Delhi-NCR,20,3,Very poor,Laptop/Desktop,9,1,6,1,Whatsapp,0,1,Increased,NO,Meditation,NO,YES,Roaming around freely
+R292,Delhi-NCR,20,1,Very poor,Laptop/Desktop,3,1,9,4,Instagram,0,2,Increased,NO,Scrolling through social media,YES,YES,School/college
+R293,Delhi-NCR,22,3,Average,Smartphone,3,0,8,2,Instagram,1,3,Increased,NO,Talking to your relatives,NO,NO,School/college
+R294,Outside Delhi-NCR,16,7,Excellent,Tablet,2,1,6,2,Whatsapp,0,3,Decreased,NO,Online surfing,YES,NO,School/college
+R295,Delhi-NCR,19,2,Very poor,Laptop/Desktop,1,1,7,5,Instagram,1,4,Remain Constant,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R296,Outside Delhi-NCR,17,9,Average,Laptop/Desktop,5,1,6,1,Youtube,0,3,Decreased,NO,Listening to music,YES,NO,Travelling
+R297,Outside Delhi-NCR,20,0,Average,Laptop/Desktop,1,0,9,5,Whatsapp,2,4,Remain Constant,YES,Listening to music,YES,YES,Travelling
+R298,Delhi-NCR,21,0,Very poor,Laptop/Desktop,6,0,6,4,Youtube,2,3,Increased,NO,Meditation,NO,YES,Roaming around freely
+R299,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,3,1,8,1,Instagram,2,4,Remain Constant,NO,Watching web series,YES,YES,Travelling
+R301,Delhi-NCR,17,8,Very poor,Smartphone,2,1,9,0,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,NO,All
+R302,Outside Delhi-NCR,25,1,Average,Laptop/Desktop,3,1,7,3,Whatsapp,2,3,Increased,NO,Reading books,NO,YES,Travelling
+R303,Delhi-NCR,20,3,Average,Smartphone,2,0.5,8,3,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R304,Outside Delhi-NCR,21,0,Very poor,NA,1,0,10,3,Instagram,2,3,Remain Constant,NO,Watching web series,NO,NO,Roaming around freely
+R305,Outside Delhi-NCR,19,5,Excellent,Smartphone,5,1,7,2,Youtube,3,3,Increased,NO,Sleep,NO,YES,Travelling
+R306,Delhi-NCR,23,5,Average,Smartphone,5,1,8,1,Whatsapp,2,3,Remain Constant,NO,gardening cartoon,YES,YES,Roaming around freely
+R307,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,8,1,8,2,Linkedin,1,2,Remain Constant,NO,Listening to music,YES,NO,School/college
+R308,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,1,1,8,4,Youtube,1,3,Increased,NO,Online surfing,YES,NO,Roaming around freely
+R309,Outside Delhi-NCR,18,0,NA,NA,1,1,12,4,Instagram,0,3,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R310,Delhi-NCR,21,3,Average,Laptop/Desktop,3,2,6.5,2,Youtube,2,2,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R311,Outside Delhi-NCR,22,1,Average,Smartphone,3,1,8,1,Instagram,0,2,Decreased,YES,Cooking,NO,NO,Roaming around freely
+R312,Outside Delhi-NCR,24,3,Very poor,Laptop/Desktop,4,0,6,3,Whatsapp,4,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R313,Delhi-NCR,14,3,Average,Tablet,6,3,7,3,Instagram,1,2,Remain Constant,NO,"listening to music,reading books and dancing.",YES,YES,all of the above
+R314,Outside Delhi-NCR,16,4,Very poor,Smartphone,3,0,8,4,Youtube,0,4,Remain Constant,NO,Dont get distreessed,YES,NO,Nothing 
+R315,Delhi-NCR,19,1,Average,Laptop/Desktop,3,2,7,1,Instagram,2,2,Remain Constant,YES,Online gaming,NO,NO,School/college
+R316,Outside Delhi-NCR,21,5,Very poor,Laptop/Desktop,3,2,10,6,Youtube,1,3,Increased,YES,Online gaming,YES,NO,Eating outside
+R317,Delhi-NCR,17,2,Average,Laptop/Desktop,5,0,8,4,Youtube,0,3,Remain Constant,NO," listening music, motion design, graphic design, sleeping.",YES,NO,Eating outside and friends.
+R318,Delhi-NCR,16,4,Good,Smartphone,2,0.5,9,1,Instagram,0.1,3,Increased,NO,Sleeping,NO,YES,Colleagues
+R320,Delhi-NCR,29,8,Good,Laptop/Desktop,2,1,8,0.5,Instagram,2,4,Remain Constant,NO,Web Series,NO,NO,Travelling
+R321,Outside Delhi-NCR,26,1,Good,Laptop/Desktop,4,0,6,6,Facebook,4,3,Remain Constant,NO,Talking,NO,YES,Travelling
+R322,Delhi-NCR,21,5,Very poor,Smartphone,2,1,12,2,Instagram,1,4,Increased,NO,Listening to music,YES,NO,School/college
+R323,Outside Delhi-NCR,18,0,Very poor,Smartphone,0,2,7,6,Instagram,0,4,Increased,NO,Business,YES,YES,"Friends , relatives"
+R324,Delhi-NCR,19,3,Very poor,Smartphone,0,0,12,5,Instagram,0,3,Decreased,NO,Online gaming,NO,NO,Eating outside
+R325,Delhi-NCR,21,2,Average,Laptop/Desktop,2,1,10,2,Youtube,0.25,3,Remain Constant,NO,Sleep,YES,NO,School/college
+R326,Delhi-NCR,12,1,Good,Laptop/Desktop,3,2,8,2,Youtube,1,4,Increased,NO,Reading,YES,YES,Colleagues
+R327,Delhi-NCR,26,0,Very poor,Smartphone,1,1,7,1,Whatsapp,2,2,Decreased,NO,Online gaming,NO,YES,Travelling
+R328,Outside Delhi-NCR,20,6,Very poor,Laptop/Desktop,6,0,6,3,Whatsapp,0,4,Increased,NO,Reading books,NO,YES,School/college
+R329,Delhi-NCR,16,4,Very poor,Smartphone,2,1,9,2,Youtube,1,2,Decreased,NO,Many among these ,NO,NO,Travelling
+R330,Delhi-NCR,21,0,Average,Laptop/Desktop,2,0,10,5,Twitter,1,3,Increased,NO,Listening to music,YES,NO,School/college
+R331,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,2,0,8,0.5,Whatsapp,1,2,Increased,NO,Sleep,NO,YES,"Friends , relatives"
+R332,Delhi-NCR,20,6,Average,Laptop/Desktop,4,0,7,1,Linkedin,0,3,Increased,NO,Cooking,YES,YES,School/college
+R333,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,1,7,1,Instagram,0,4,Remain Constant,YES,Listening to music,YES,NO,Travelling
+R334,Outside Delhi-NCR,21,2,Average,Smartphone,2,1,7,1,Whatsapp,4,3,Remain Constant,NO,Online surfing,YES,NO,All above
+R335,Delhi-NCR,19,1,Very poor,Laptop/Desktop,0,0,12,10,Instagram,2,2,Remain Constant,NO,Online gaming,NO,NO,Nothing
+R336,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,2,0,8,2,Instagram,1,3,Remain Constant,YES,Reading books,NO,YES,Eating outside
+R337,Delhi-NCR,14,5,Average,Smartphone,2.3,0,8,2,Youtube,3,2,Remain Constant,NO,Scrolling through social media,YES,YES,Travelling
+R338,Delhi-NCR,22,1,Average,Laptop/Desktop,2,0,11,3,Whatsapp,3,2,Increased,YES,Dancing,NO,NO,"Friends , relatives"
+R339,Delhi-NCR,19,2,Average,Smartphone,2.5,0,9,2,Facebook,1,3,Remain Constant,NO,Online surfing,NO,NO,"Nah, this is my usual lifestyle anyway, just being lazy...."
+R340,Outside Delhi-NCR,18,4,Average,Smartphone,1,1,12,1,Instagram,1,2,Increased,NO,Watching web series,NO,YES,All
+R341,Outside Delhi-NCR,16,8,Average,Laptop/Desktop,6,0,6,1,Youtube,0,4,Remain Constant,NO,Watching web series,YES,NO,"Friends , relatives"
+R342,Outside Delhi-NCR,43,2,Average,Smartphone,0,1,6,2,Facebook,0.5,3,Increased,NO,Talk with childhood friends.,NO,YES,Family 
+R343,Outside Delhi-NCR,15,4,Very poor,Tablet,10,0,8,1,Twitter,1,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R344,Outside Delhi-NCR,32,1,Very poor,Laptop/Desktop,10,1,8,2,Twitter,0,3,Increased,NO,Reading books,YES,YES,School/college
+R345,Delhi-NCR,15,3,Good,Laptop/Desktop,3,1,7,1,Youtube,2,2,Increased,NO,Sleeping,YES,YES,Colleagues
+R346,Outside Delhi-NCR,22,0,NA,NA,5,1,7,2,Youtube,1,4,Increased,NO,Watching web series,NO,YES,School/college
+R347,Delhi-NCR,16,4,Average,NA,4,1,6,1,Whatsapp,1,3,Increased,NO,Listening to music,YES,YES,"Friends , relatives"
+R348,Outside Delhi-NCR,21,2,Very poor,NA,4,0,9,2,Whatsapp,0,4,Remain Constant,NO,Sleep,NO,YES,Travelling
+R349,Outside Delhi-NCR,14,5,Good,NA,2,1,9,1,Whatsapp,1,4,Increased,NO,Talking,NO,YES,School/college
+R350,Delhi-NCR,19,2,Very poor,NA,1,1,11,3,Whatsapp,0,2,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R351,Outside Delhi-NCR,18,1.5,Average,NA,2,1,8,1,Whatsapp,0.5,2,Remain Constant,NO,Meditation,YES,YES,School/college
+R352,Delhi-NCR,11,4,Average,NA,2,2,10,1,Whatsapp,3,4,Remain Constant,NO,Playing ,NO,YES,Roaming around freely
+R353,Delhi-NCR,24,0.5,Average,NA,2,0,8,1,Instagram,0,3,Remain Constant,NO,Watching web series,YES,YES,Eating outside
+R354,Outside Delhi-NCR,21,3,Average,Laptop/Desktop,3,1,8,2,Instagram,0,3,Increased,NO,Watching web series,NO,YES,Eating outside
+R355,Delhi-NCR,15,5,Average,Smartphone,3,3,8,3,Instagram,2,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R356,Delhi-NCR,34,2,Average,Laptop/Desktop,3,1,7,2,Twitter,1,3,Remain Constant,NO,Sleep,YES,YES,Travelling
+R357,Delhi-NCR,17,0.75,Average,Smartphone,5,1,6,2,Youtube,2,1,Increased,YES,Reading books,NO,YES,School/college
+R358,Delhi-NCR,12,1,Excellent,Smartphone,2,1,9,2,Youtube,1,3,Increased,NO,Online gaming,YES,YES,School/college
+R359,Delhi-NCR,16,1,Average,Smartphone,2,1,7,2,Whatsapp,3,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R360,Delhi-NCR,17,7,Average,Laptop/Desktop,8,1,6,1,Whatsapp,1,3,Increased,NO,Listening to music,YES,YES,School/college
+R361,Delhi-NCR,14,2.5,Good,Smartphone,1,0.5,6,2,Youtube,1,2,Decreased,NO,Cooking,YES,YES,Colleagues
+R362,Outside Delhi-NCR,16,4,Average,Smartphone,5,1,6,2,Whatsapp,2,2,Remain Constant,NO,Dancing,YES,NO,Travelling
+R363,Delhi-NCR,13,2,Excellent,Smartphone,1,3,11,3,Youtube,2,4,Increased,NO,Reading books,NO,YES,Eating outside
+R364,Delhi-NCR,23,0,Average,Laptop/Desktop,2,0,7,3,Linkedin,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R365,Delhi-NCR,21,6,Very poor,Smartphone,0,1,7,4,Instagram,1,4,Increased,NO,Listening to music,YES,YES,Only friends
+R366,Outside Delhi-NCR,31,4,Excellent,Laptop/Desktop,2,1,8,1,Facebook,1,3,Increased,NO,Sleep,YES,NO,School/college
+R367,Delhi-NCR,23,5,Excellent,Smartphone,1,1,9,2,Whatsapp,0,4,Decreased,NO,Online gaming,YES,YES,Football
+R368,Delhi-NCR,13,1,Excellent,Smartphone,5,3,6,2,Instagram,2,7,Increased,NO,Exercise,YES,YES,School/college
+R369,Delhi-NCR,21,3,Average,Laptop/Desktop,0,1,8,3,Instagram,0,3,Increased,YES,Listening to music,NO,NO,School/college
+R370,Delhi-NCR,17,6,Average,Laptop/Desktop,2.5,1,6,0,None,0.5,3,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R371,Delhi-NCR,23,3,Good,Laptop/Desktop,3,0,7,2,Linkedin,0,3,Remain Constant,NO,Cooking,NO,YES,Travelling
+R372,Delhi-NCR,13,1,Excellent,Smartphone,2,0,8,0,None,4,3,Increased,NO,Watching web series,YES,NO,"Friends , relatives"
+R373,Delhi-NCR,20,1,Average,Laptop/Desktop,2.5,0,6,4,Instagram,1,3,Remain Constant,NO,Online gaming,YES,YES,Roaming around freely
+R374,Delhi-NCR,13,0.5,Average,Smartphone,2,2,10,2,Youtube,0,3,Increased,NO,Online gaming,YES,NO,School/college
+R375,Delhi-NCR,14,2,Excellent,Smartphone,1,1,8,1,Whatsapp,2,1,Increased,YES,Online gaming,YES,YES,School/college
+R376,Delhi-NCR,40,1,Average,Laptop/Desktop,2,1,6,4,Whatsapp,0,2,Remain Constant,NO,Online surfing,NO,YES,Eating outside
+R377,Delhi-NCR,12,1,Excellent,Smartphone,1.2,0.5,10,0,Whatsapp,2,3,Increased,NO,Talking to your relatives,YES,YES,"Friends , relatives"
+R378,Delhi-NCR,20,3,Very poor,Laptop/Desktop,2,1,8,4,Linkedin,0,3,Remain Constant,YES,Listening to music,NO,YES,Travelling
+R379,Delhi-NCR,12,1,Good,Smartphone,2,0.5,8,2,Whatsapp,2,4,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R380,Delhi-NCR,21,3,Average,Laptop/Desktop,3,0,8,2,Instagram,0,4,Decreased,NO,Sleep,NO,YES,Travelling
+R381,Delhi-NCR,42,4,Good,Laptop/Desktop,3,0,7,1,Facebook,0.5,2,Increased,NO,Social Media,YES,YES,Travelling
+R382,Outside Delhi-NCR,20,3,Good,Smartphone,4,2,7,4,Whatsapp,0.5,4,Remain Constant,YES,Talking,NO,YES,School/college
+R383,Delhi-NCR,28,0,NA,NA,4,2,7,2,Twitter,2,2,Decreased,NO,Meditation,YES,YES,Travelling
+R384,Delhi-NCR,40,2,Good,NA,1,1,8,1,Whatsapp,1,2,Remain Constant,NO,Web Series,YES,YES,Travelling
+R385,Delhi-NCR,14,3,Excellent,NA,2,0,12,2,Facebook,3,1,Decreased,NO,Online gaming,NO,NO,School/college
+R386,Delhi-NCR,12,1,Average,NA,1,0,12,1,Youtube,1,1,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R387,Delhi-NCR,14,4,Average,NA,2,1,8,2,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R388,Delhi-NCR,22,0,Average,NA,0,0,9,2,Linkedin,2,3,Remain Constant,NO,Talking to friends,NO,NO,Roaming around freely
+R389,Outside Delhi-NCR,40,4,Average,NA,4,0,8,2,Whatsapp,1,3,Increased,NO,Listening to music,NO,YES,Travelling
+R390,Outside Delhi-NCR,21,4,Very poor,NA,3,1,6,2,Youtube,5,2,Remain Constant,NO,Meditation,NO,YES,Normal life
+R391,Delhi-NCR,23,3,Good,Smartphone,1,0,6,2,Whatsapp,3,3,Remain Constant,NO,Listening to music,NO,YES,Colleagues
+R392,Delhi-NCR,12,2,Excellent,Smartphone,2,1,10,1,Youtube,1,4,Remain Constant,NO,Reading books,YES,YES,School/college
+R393,Outside Delhi-NCR,17,2,Excellent,Smartphone,3,1,6,2,Whatsapp,2,1,Increased,NO,Talking to your relatives,YES,YES,School/college
+R394,Outside Delhi-NCR,18,1,Average,Laptop/Desktop,1,0,8,4,Instagram,0,3,Decreased,NO,Watching web series,YES,YES,Roaming around freely
+R395,Outside Delhi-NCR,20,1,Average,Laptop/Desktop,2,2,9,4,Instagram,5,2,Remain Constant,NO,Listening to music,YES,NO,Travelling
+R396,Outside Delhi-NCR,17,5,Average,Smartphone,3,1,6,1,Facebook,2,1,Remain Constant,NO,Online gaming,YES,YES,School/college
+R397,Delhi-NCR,20,1,Average,Laptop/Desktop,4,0,8,3,Instagram,0,3,Remain Constant,NO,Watching web series,NO,NO,"Friends , relatives"
+R398,Delhi-NCR,20,3,Very poor,Laptop/Desktop,4,1,8,2,Whatsapp,0.5,4,Remain Constant,NO,Cooking,YES,YES,Roaming around freely
+R399,Delhi-NCR,19,0.75,Poor,Laptop/Desktop,2,1,6,4,Youtube,0,2,Remain Constant,NO,"Netflix, Friends and Books",NO,YES,"Friends , relatives"
+R400,Outside Delhi-NCR,20,4,Good,Laptop/Desktop,2,0,11,1,Whatsapp,0,3,Increased,NO,Listening to music,NO,YES,Travelling
+R401,Delhi-NCR,16,2,Excellent,Smartphone,5,1,8,4,Whatsapp,4,3,Increased,NO,Online gaming,YES,YES,School/college
+R402,Delhi-NCR,13,3,Excellent,Smartphone,2,0,8,1,Youtube,0,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R403,Delhi-NCR,20,0,Good,Laptop/Desktop,4,1,7,4,Youtube,2,3,Remain Constant,YES,Web Series,NO,YES,Travelling
+R404,Outside Delhi-NCR,14,3,Excellent,Smartphone,2,0,10,1,Youtube,1,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R405,Delhi-NCR,17,2,Good,Smartphone,1,1,8,3,Facebook,2,3,Decreased,NO,Online gaming,YES,YES,Travelling
+R406,Outside Delhi-NCR,20,1,Very poor,Laptop/Desktop,1,0,12,2,Twitter,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R407,Delhi-NCR,17,7,Excellent,Smartphone,1,1,4,1,Youtube,0,1,Decreased,NO,Cooking,YES,YES,School/college
+R408,Outside Delhi-NCR,13,2,Excellent,Smartphone,1,1,6,2,Whatsapp,0,1,Decreased,YES,Reading books,YES,YES,School/college
+R409,Delhi-NCR,13,1,Good,Smartphone,2,1,8,3,Youtube,0.5,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R410,Outside Delhi-NCR,20,2,Very poor,Laptop/Desktop,4,1,8,2,Instagram,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R411,Outside Delhi-NCR,27,0,Good,Laptop/Desktop,2,0,10,6,Whatsapp,6,3,Decreased,NO,Online gaming,NO,YES,Colleagues
+R412,Delhi-NCR,20,1,Good,Laptop/Desktop,0,1,7,2,Instagram,0,3,Decreased,NO,Web Series,YES,NO,Eating outside
+R413,Delhi-NCR,20,5,Very poor,Laptop/Desktop,3,1,7,4,Twitter,0,3,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R414,Delhi-NCR,17,4,Average,Smartphone,1,1,8,5,Youtube,0.3,2,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R415,Delhi-NCR,27,3,Excellent,Laptop/Desktop,2,2,7,1,Instagram,0,3,Decreased,YES,Listening to music,YES,YES,Travelling
+R416,Outside Delhi-NCR,14,1,Good,Smartphone,3,1,9,1,None,0,3,Increased,NO,Online gaming,YES,YES,School/college
+R417,Delhi-NCR,9,1,Average,Laptop/Desktop,1,0,8,0,Youtube,1,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R418,Delhi-NCR,14,5,Average,Smartphone,1,1,7,1,Whatsapp,4.5,2,Decreased,NO,Watching web series,NO,YES,"Friends , relatives"
+R419,Delhi-NCR,36,2,Excellent,Tablet,3,1,7,5,Youtube,3,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R420,Delhi-NCR,8,2,Excellent,Laptop/Desktop,2,1,8,1,Whatsapp,2,3,Remain Constant,NO,Dancing,YES,YES,Roaming around freely
+R421,Delhi-NCR,20,2,Average,Laptop/Desktop,1,1,7,1,Whatsapp,1,2,Remain Constant,NO,Watching web series,YES,YES,School/college
+R422,Outside Delhi-NCR,12,2,Average,Laptop/Desktop,1,1,7,2,Instagram,2,2,Increased,NO,Sleeping,YES,YES,"Friends , relatives"
+R423,Delhi-NCR,19,8,Excellent,Laptop/Desktop,10,1,6,1,Linkedin,0,4,Remain Constant,NO,Online gaming,YES,YES,School/college
+R424,Outside Delhi-NCR,24,0,Excellent,Laptop/Desktop,3,1,8,3,Instagram,0,3,Decreased,NO,Online gaming,YES,NO,Travelling
+R425,Delhi-NCR,20,2,Average,Laptop/Desktop,2,2,8,3,Instagram,0,3,Remain Constant,NO,Watching web series,YES,YES,Roaming around freely
+R426,Delhi-NCR,22,1,Very poor,Smartphone,3,0,7,3,Youtube,2,3,Remain Constant,NO,Watching web series,NO,YES,Roaming around freely
+R427,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,0,1,9,4,Youtube,4,4,Decreased,NO,Sleeping,NO,YES,"Friends , relatives"
+R428,Delhi-NCR,12,1,Excellent,Smartphone,3,1,6,1,Youtube,1,1,Remain Constant,NO,Cooking,NO,YES,"Friends , relatives"
+R429,Outside Delhi-NCR,21,0,Very poor,Laptop/Desktop,1,0,6,6,Instagram,1,3,Remain Constant,YES,Scrolling through social media,NO,NO,School/college
+R430,Delhi-NCR,20,2,Average,Laptop/Desktop,3,2,7,3,Instagram,1,2,Decreased,NO,Talking to your relatives,YES,YES,Roaming around freely
+R431,Outside Delhi-NCR,32,1,Average,Smartphone,0,0,14,2,Facebook,2,3,Remain Constant,NO,Watching web series,NO,YES,School/college
+R432,Outside Delhi-NCR,28,4,Good,Laptop/Desktop,4,1,12,2,Youtube,0,3,Decreased,NO,Social Media,YES,YES,Travelling
+R433,Delhi-NCR,21,2,Very poor,Laptop/Desktop,0,1,12,5,Instagram,5,4,Remain Constant,NO,Listening to music,NO,NO,School/college
+R434,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,2,1,8,2,Whatsapp,2,3,Remain Constant,YES,Watching web series,YES,YES,"Friends , relatives"
+R435,Delhi-NCR,15,5,Average,Laptop/Desktop,3,1,10,3,Instagram,1,4,Remain Constant,NO,Listening to music,YES,YES,All
+R436,Outside Delhi-NCR,19,1,Very poor,Laptop/Desktop,0,1,9,8,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,"Friends , relatives"
+R437,Outside Delhi-NCR,19,3,Very poor,Laptop/Desktop,1,0,5,1,Youtube,2,3,Increased,NO,Watching web series,NO,YES,School/college
+R438,Outside Delhi-NCR,18,3,Very poor,Smartphone,2,0,8,2,Instagram,0.5,3,Remain Constant,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R439,Delhi-NCR,14,7,Very poor,Tablet,3,0,8,0,None ,1,2,Decreased,NO,Sleeping,NO,NO,Travelling
+R440,Outside Delhi-NCR,18,1,Excellent,Smartphone,2,1,8,1,Facebook,0,2,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R441,Delhi-NCR,50,2,Good,Smartphone,2,0,6,2,Youtube,1,3,Remain Constant,NO,Listening to music,YES,NO,School/college
+R442,Outside Delhi-NCR,20,0.7,Very poor,Laptop/Desktop,3.5,0.5,8,3,Instagram,0.6,4,Increased,NO,Reading books,YES,YES,Roaming around freely
+R443,Outside Delhi-NCR,16,2,Very poor,Laptop/Desktop,2,1,9,2,Instagram,0.5,2,Remain Constant,YES,Listening to music,NO,YES,Roaming around freely
+R444,Delhi-NCR,13,2,Good,Smartphone,1,0,11,2,Youtube,3,2,Increased,YES,Social Media,NO,NO,School/college
+R445,Delhi-NCR,20,3,Very poor,Laptop/Desktop,4,1,8,2,Twitter,0,3,Remain Constant,NO,Reading books,YES,YES,Eating outside
+R446,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,1,7,2,Whatsapp,7,3,Increased,NO,Watching web series,NO,NO,"Friends , relatives"
+R447,Delhi-NCR,14,3,Excellent,Laptop/Desktop,5,2,10,3,Facebook,3,3,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R448,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,2,0,7,5,Instagram,0,2,Decreased,YES,Listening to music,NO,YES,"Friends , relatives"
+R449,Delhi-NCR,22,3,Average,Laptop/Desktop,2,0,7,3,Youtube,0,3,Increased,NO,Reading books,YES,YES,Eating outside
+R450,Delhi-NCR,13,0.75,Excellent,Smartphone,2,0,7,1,Youtube,0,1,Remain Constant,NO,Reading books,YES,NO,School/college
+R451,Delhi-NCR,13,3,Good,Smartphone,3,1,8,1,Whatsapp,0.5,2,Increased,NO,Online gaming,YES,YES,School/college
+R452,Delhi-NCR,16,6,Good,Smartphone,3,1,6,1,Youtube,1,1,Decreased,NO,Talking,YES,YES,Colleagues
+R453,Outside Delhi-NCR,35,4,Average,Smartphone,2,1,6,0.5,Facebook,1,2,Remain Constant,NO,Online surfing,NO,YES,Roaming around freely
+R454,Outside Delhi-NCR,45,3,Excellent,Laptop/Desktop,4,1,8,2,Youtube,1,3,Increased,NO,Meditation,YES,YES,"Friends , relatives"
+R455,Delhi-NCR,16,0,Good,Smartphone,0,2,6,1,Facebook,4,2,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R456,Delhi-NCR,20,4,Very poor,Laptop/Desktop,6,0,8,0,Youtube,0,2,Remain Constant,NO,Reading books,YES,YES,School/college
+R457,Outside Delhi-NCR,21,0,Poor,Laptop/Desktop,9,0,7,2,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R458,Delhi-NCR,23,6,Average,Laptop/Desktop,4,1,9,1,Instagram,0,4,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R459,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,4,1,8,8,Instagram,1,2,Increased,NO,Scrolling through social media,YES,YES,School/college
+R460,Delhi-NCR,20,7,Good,Laptop/Desktop,2,0,8,4,Facebook,3,4,Increased,NO,Social Media,NO,NO,Travelling
+R461,Outside Delhi-NCR,19,0,Very poor,Smartphone,5,0.5,7,4,Instagram,0,3,Remain Constant,NO,Reading books,YES,YES,Travelling
+R462,Outside Delhi-NCR,18,4,Very poor,Smartphone,2,1,12,2,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R463,Delhi-NCR,30,0,NA,NA,0.5,0,7,1,Youtube,0.5,2,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R464,Delhi-NCR,18,2,Good,NA,3,1,7,2,Whatsapp,1,3,Remain Constant,YES,Online gaming,YES,YES,Travelling
+R465,Outside Delhi-NCR,21,2,Average,NA,4,1,10,8,Instagram,1,3,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R466,Outside Delhi-NCR,13,4,Good,NA,2,2,8,2,Youtube,2,2,Decreased,NO,Cooking,YES,YES,School/college
+R467,Outside Delhi-NCR,22,1,Average,NA,3,3,8,3,Instagram,3,4,Increased,NO,Sleeping,YES,YES,Roaming around freely
+R468,Delhi-NCR,21,1,Very poor,NA,0,0,8,2,Instagram,1,3,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R469,Outside Delhi-NCR,21,2,Good,NA,6,0,6.5,0.5,Whatsapp,0,3,Increased,NO,Web Series,YES,YES,Travelling
+R470,Delhi-NCR,21,2,Very poor,NA,1,0,13,6,Twitter,7,2,Decreased,YES,Listening to music,NO,NO,School/college
+R471,Outside Delhi-NCR,20,5,Good,Laptop/Desktop,7,0,6,1,Linkedin,0,4,Increased,NO,Web Series,YES,YES,Travelling
+R472,Delhi-NCR,20,0,Very poor,Laptop/Desktop,10,4,6,2,Whatsapp,0,7,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R473,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,5,1,9,2,Youtube,0,4,Increased,NO,Listening to music,NO,YES,Eating outside
+R474,Outside Delhi-NCR,19,4,Average,Laptop/Desktop,0,0,8,6,Instagram,1,3,Increased,NO,Online gaming,NO,YES,School/college
+R475,Delhi-NCR,19,0,Good,Laptop/Desktop,3,1,8,3,Instagram,1,3,Increased,NO,Social Media,NO,NO,School/college
+R476,Delhi-NCR,7,2,Good,Smartphone,2,1,9,1,Whatsapp,2,3,Increased,NO,Online gaming,NO,YES,Travelling
+R477,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,0,1,7,3,Instagram,0,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R478,Delhi-NCR,23,4,Very poor,Laptop/Desktop,10,1,7,1,Whatsapp,0,2,Decreased,NO,Listening to music,YES,YES,Travelling
+R479,Delhi-NCR,20,5,Very poor,Laptop/Desktop,2,0,13,4,Instagram,0,2,Increased,NO,Scrolling through social media,NO,NO,School/college
+R480,Delhi-NCR,20,4,Very poor,Smartphone,4,0,8,4,Instagram,3,3,Remain Constant,NO,Online gaming,YES,YES,Eating outside
+R481,Outside Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,1,8,3,Whatsapp,2,3,Increased,NO,Meditation,YES,YES,School/college
+R482,Delhi-NCR,20,4,Very poor,Laptop/Desktop,2,1,8,2,Youtube,0,3,Increased,NO,Dancing,YES,YES,"Friends , relatives"
+R483,Outside Delhi-NCR,18,4,Average,Smartphone,1,0,9,4,Whatsapp,1,3,Decreased,YES,Online gaming,NO,YES,Eating outside
+R484,Delhi-NCR,21,4,Very poor,Tablet,0,3,11,10,Snapchat,0,1,Decreased,NO,Meditation,NO,NO,Travelling
+R485,Outside Delhi-NCR,18,6,Very poor,Laptop/Desktop,6,1,6,1,Instagram,0.5,5,Remain Constant,YES,Listening to music,YES,YES,School/college
+R486,Delhi-NCR,21,6,Excellent,Laptop/Desktop,6,1,6,1,Instagram,0,4,Decreased,NO,Driving,NO,YES,Roaming around freely
+R487,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,3,0,7,3,Whatsapp,2,2,Increased,NO,Online surfing,NO,NO,School/college
+R488,Outside Delhi-NCR,19,0,Average,Laptop/Desktop,1,0.5,8,1,Instagram,0,3,Increased,NO,Scrolling through social media,NO,YES,Nothing
+R489,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,2,0,8,1,Instagram,1,3,Remain Constant,YES,Reading books,NO,NO,School/college
+R490,Delhi-NCR,21,3,Average,Laptop/Desktop,7,3,6,1,Whatsapp,0,3,Remain Constant,NO,Meditation,YES,NO,School/college
+R491,Delhi-NCR,24,2,Poor,Smartphone,6,0,6,3,Whatsapp,0.5,4,Decreased,NO,Listening to music,NO,NO,School/college
+R492,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,4,0,8,2,Whatsapp,0,1,Remain Constant,NO,Reading books,NO,NO,School/college
+R493,Outside Delhi-NCR,20,2,Average,Smartphone,2,0,12,4,Instagram,0,3,Remain Constant,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R494,Outside Delhi-NCR,24,5,Average,Laptop/Desktop,2,0,6,3,Instagram,0,4,Increased,NO,Watching web series,NO,YES,Eating outside
+R495,Delhi-NCR,21,5,Average,Laptop/Desktop,6,0,7,2,Linkedin,0.5,3,Increased,NO,Online surfing,YES,YES,School/college
+R496,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,2,5,3,Youtube,0,3,Remain Constant,NO,I run,YES,YES,Travelling
+R497,Outside Delhi-NCR,22,5,Very poor,Smartphone,0,1,8,4,Facebook,0,3,Remain Constant,NO,Online surfing,NO,YES,Eating outside
+R498,Outside Delhi-NCR,20,7,Very poor,Laptop/Desktop,0,1,6,2,Facebook,1,4,Remain Constant,NO,Online gaming,NO,YES,Roaming around freely
+R499,Outside Delhi-NCR,20,0.5,Very poor,Smartphone,3,1,10,3,Instagram,2,2,Increased,YES,Scrolling through social media,NO,NO,"Friends , relatives"
+R500,Delhi-NCR,19,0,NA,NA,8,1,8,0,None,0,2,Remain Constant,NO,Online surfing,NO,NO,"Friends , relatives"
+R501,Outside Delhi-NCR,22,0.5,Very poor,Laptop/Desktop,1,1,8,3,Instagram,0,4,Increased,NO,Online gaming,NO,NO,Roaming around freely
+R502,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,1,0,10,2,Whatsapp,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R503,Outside Delhi-NCR,19,3,Very poor,Laptop/Desktop,2,1,6,2,Instagram,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R504,Outside Delhi-NCR,13,3,Average,Smartphone,2,1,7,2,Whatsapp,0,3,Decreased,NO,Dancing,YES,YES,"Friends , relatives"
+R505,Delhi-NCR,10,4,Average,Smartphone,2,1,8,1,Whatsapp,2,3,Remain Constant,NO,Dancing,YES,YES,School/college
+R506,Outside Delhi-NCR,21,4,Very poor,Laptop/Desktop,2,0,6,1,Youtube,0,3,Increased,NO,Online surfing,NO,YES,Travelling
+R507,Outside Delhi-NCR,20,2,Very poor,Laptop/Desktop,3,0,11,1,Whatsapp,1,3,Remain Constant,NO,Sleeping,NO,NO,School/college
+R508,Delhi-NCR,22,1,Very poor,Smartphone,2,1,6,2,Instagram,0,3,Increased,NO,Online surfing,YES,YES,School/college
+R509,Delhi-NCR,20,4,Average,Laptop/Desktop,0,0,12,2,Instagram,2,3,Increased,NO,Scrolling through social media,NO,NO,Roaming around freely
+R510,Outside Delhi-NCR,20,0,Poor,Laptop/Desktop,2,0,10,4,Instagram,0,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R511,Delhi-NCR,20,0,Average,Laptop/Desktop,1,1,8,4,Whatsapp,0,3,Increased,NO,Sleeping,NO,YES,School/college
+R512,Outside Delhi-NCR,21,0,Average,Smartphone,4,1,7,2,Facebook,4,4,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R513,Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,2,8,2,Instagram,1,4,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R514,Outside Delhi-NCR,13,2,Excellent,Smartphone,2,1,6,6,Instagram,8,4,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R515,Outside Delhi-NCR,20,2,Average,Laptop/Desktop,3,0,7,5,Instagram,6,2,Increased,NO,Online gaming,NO,NO,Eating outside
+R516,Outside Delhi-NCR,17,2,Average,Smartphone,5,3,5,1,Whatsapp,0.5,3,Decreased,NO,Running,NO,YES,School/college
+R517,Outside Delhi-NCR,11,1,Good,Laptop/Desktop,1,1,15,3,Youtube,1,4,Increased,NO,Listening to music,YES,YES,School/college
+R518,Delhi-NCR,17,2,Excellent,Smartphone,3,1,8,3,Whatsapp,1,2,Increased,NO,Listening to music,YES,YES,School/college
+R519,Outside Delhi-NCR,17,1,Average,Smartphone,2,0,8,1,Youtube,1,2,Decreased,NO,Talking to your relatives,NO,YES,School/college
+R520,Delhi-NCR,19,4,Very poor,Laptop/Desktop,5,0,8,3,Twitter,2,3,Increased,NO,Watching web series,NO,YES,School/college
+R521,Outside Delhi-NCR,20,6,Good,Laptop/Desktop,5,2,6,10,Twitter,15,3,Remain Constant,NO,Talking,YES,YES,School/college
+R522,Delhi-NCR,18,3,Good,Laptop/Desktop,4,2,7,2,Youtube,2,3,Increased,NO,Dancing,YES,YES,Travelling
+R523,Delhi-NCR,20,4,Average,Laptop/Desktop,3,0,8,4,Youtube,2,4,Increased,NO,Listening to music,NO,YES,Eating outside
+R524,Delhi-NCR,19,0,Very poor,Laptop/Desktop,1,0,9,6,Twitter,0,4,Increased,NO,Sleeping,NO,NO,Travelling
+R525,Delhi-NCR,17,3,Average,Smartphone,3,3,9,2,Youtube,0,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R526,Outside Delhi-NCR,19,0,Very poor,Smartphone,0,1,10,7,Youtube,1,3,Increased,YES,Online gaming,NO,YES,School/college
+R527,Outside Delhi-NCR,21,1,Average,Laptop/Desktop,8,2,8,2,Whatsapp,1,3,Remain Constant,YES,Online gaming,NO,NO,Roaming around freely
+R528,Outside Delhi-NCR,34,2,Average,Laptop/Desktop,1,0,7,6,Whatsapp,6,3,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R529,Outside Delhi-NCR,15,4,Very poor,Smartphone,4,0,7,1,Youtube,2,3,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R530,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,0,1,12,2,Instagram,1,3,Decreased,YES,Listening to music,NO,NO,Travelling
+R531,Delhi-NCR,24,0,NA,NA,1,0,10,6,Instagram,3,4,Increased,NO,Listening to music,NO,NO,School/college
+R532,Outside Delhi-NCR,17,6,Average,Smartphone,4,0,7,9,Youtube,0.5,2,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R533,Delhi-NCR,26,2,Very poor,Laptop/Desktop,1,1,8,4,Facebook,0,3,Decreased,NO,Scrolling through social media,NO,YES,Travelling
+R534,Delhi-NCR,20,0,Very poor,Laptop/Desktop,1,1,7,0.5,Instagram,0.5,3,Increased,NO,Reading books,YES,YES,School/college
+R535,Outside Delhi-NCR,22,3,Average,Laptop/Desktop,6,2,8,4,Instagram,1,4,Remain Constant,NO,Cooking,YES,YES,"Friends , relatives"
+R536,Outside Delhi-NCR,20,6,Poor,Laptop/Desktop,2,2,8,1,Instagram,0,3,Decreased,NO,Listening to music,YES,NO,Roaming around freely
+R537,Outside Delhi-NCR,21,4,Very poor,Laptop/Desktop,2,2,8,4,Youtube,4,3,Decreased,NO,Watching web series,YES,YES,"Friends , relatives"
+R538,Outside Delhi-NCR,14,3,Good,Smartphone or Laptop/Desktop,2,0,6,1,Whatsapp,1,1,Increased,NO,Listening to music,YES,YES,School/college
+R539,Outside Delhi-NCR,20,5,Very poor,Laptop/Desktop,6,1,7,2,Youtube,0,3,Remain Constant,NO,Watching web series,NO,YES,Eating outside
+R540,Delhi-NCR,19,2,Excellent,Smartphone,2,1,10,2,Youtube,1,2,Remain Constant,NO,Sleeping,YES,YES,School/college
+R541,Delhi-NCR,44,3,Average,Smartphone,4,0,6,1,Facebook,1,2,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R542,Outside Delhi-NCR,20,1,Very poor,Tablet,2,3,8,2,Whatsapp,2,2,Decreased,NO,Reading books,YES,YES,"Friends , relatives"
+R543,Delhi-NCR,22,3,Average,Laptop/Desktop,6,1,6,3,Whatsapp,2,3,Remain Constant,NO,Sleeping,NO,YES,The idea of being around fun loving people but this time has certainly made us all to reconnect (and fill the gap if any) with our families and relatives so it is fun but certainly we do miss hanging out with friends
+R544,Outside Delhi-NCR,21,1,Poor,Smartphone,4,1,8,4,Youtube,0,3,Remain Constant,NO,Online surfing,YES,YES,School/college
+R545,Delhi-NCR,20,5,Very poor,Laptop/Desktop,2,0,8,1,Linkedin,2,3,Remain Constant,NO,Online surfing,YES,YES,"Friends , relatives"
+R546,Delhi-NCR,18,4,Very poor,Tablet,4,0,9,2,Instagram,2,3,Remain Constant,NO,Watching web series,NO,YES,Travelling
+R547,Outside Delhi-NCR,15,1,Good,Smartphone,2,1,8,1,Whatsapp,2,2,Increased,NO,Meditation,NO,YES,School/college
+R548,Outside Delhi-NCR,19,2,Average,Smartphone,0,0,8,10,Instagram,1,2,Decreased,NO,Online gaming,NO,YES,"Friends , relatives"
+R549,Outside Delhi-NCR,24,2,Average,Smartphone,2,0,6,3,Whatsapp,0,2,Decreased,NO,Sleeping,NO,NO,School/college
+R550,Delhi-NCR,16,7,Average,Smartphone,4,1,6,1,Whatsapp,0,4,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R551,Outside Delhi-NCR,21,0,Poor,Smartphone,8,0,7,2,Whatsapp,0.5,3,Remain Constant,YES,Online surfing,YES,NO,School/college
+R552,Outside Delhi-NCR,17,4,Good,Smartphone,3,3,6,5,Instagram,No tv,4,Decreased,NO,Exercise,YES,YES,All
+R553,Delhi-NCR,15,5,Good,Smartphone,2,1,7,0,Youtube,0,2,Increased,NO,Online gaming,NO,YES,Colleagues
+R554,Outside Delhi-NCR,16,2,Very poor,Smartphone,1,0,9,1,Whatsapp,0,3,Decreased,NO,Reading books,NO,YES,School/college
+R555,Delhi-NCR,21,6,Average,Laptop/Desktop,2,1,7,1.5,Youtube,1.5,3,Remain Constant,NO,Watching web series,NO,YES,My normal routine
+R556,Delhi-NCR,13,2,Excellent,Smartphone,2,1,9,2,Facebook,1,3,Increased,NO,Scrolling through social media,YES,NO,School/college
+R557,Delhi-NCR,22,3,Very poor,Smartphone,2,1,9,1,Whatsapp,1,4,Remain Constant,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R558,Outside Delhi-NCR,15,4,Average,Laptop/Desktop,4,1,11,1,Instagram,2,5,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R559,Outside Delhi-NCR,26,0.5,Very poor,Smartphone,1,0,6,1,Whatsapp,1,3,Decreased,YES,Sleeping,NO,NO,School/college
+R560,Delhi-NCR,21,0,Very poor,Laptop/Desktop,2,0,10,6,Youtube,0,2,Remain Constant,NO,Online gaming,NO,YES,"Friends , relatives"
+R561,Outside Delhi-NCR,13,1,Good,Smartphone,1,1,8,1,Youtube,2,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R562,Delhi-NCR,21,3,Average,Laptop/Desktop,0,2,8,2,Instagram,2,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R563,Outside Delhi-NCR,21,3,Very poor,Smartphone,1,1,8,2,Instagram,0,3,Increased,NO,Watching web series,YES,YES,Travelling
+R564,Delhi-NCR,17,2,Average,Smartphone,1,1,8,7,Instagram,0,4,Increased,NO,Watching web series,NO,YES,Roaming around freely
+R565,Delhi-NCR,20,1,Good,Smartphone,3,1,8,3,Youtube,1,4,Remain Constant,NO,Reading,NO,YES,School/college
+R566,Delhi-NCR,18,3,Good,Smartphone,2,0,8,1,Youtube,1,3,Decreased,NO,Listening to music,YES,NO,School/college
+R567,Delhi-NCR,19,2,Very poor,Laptop/Desktop,8,0,8,1,Youtube,0,4,Decreased,YES,Sleeping,NO,NO,Eating outside
+R568,Delhi-NCR,21,4,Average,Laptop/Desktop,4,1,8,3,Instagram,1,3,Increased,NO,Listening to music,NO,NO,School/college
+R569,Delhi-NCR,20,8,Excellent,Smartphone,8,1,7,2,Youtube,1,4,Increased,NO,Watching web series,YES,YES,Roaming around freely
+R570,Delhi-NCR,21,8,Good,Laptop/Desktop,2,1,7,1,Whatsapp,0,3,Remain Constant,NO,Talking,YES,YES,Eating outside
+R571,Outside Delhi-NCR,32,2,Good,Smartphone,0,0,11,1,Whatsapp,3,4,Remain Constant,NO,Meditation,NO,NO,Eating outside
+R572,Delhi-NCR,19,4,Good,Laptop/Desktop,4,2,8,6,Instagram,6,3,Increased,NO,Meditation,NO,YES,Travelling
+R573,Delhi-NCR,18,2,Very poor,Smartphone,0,3,8,1,Twitter,0,3,Increased,NO,Exercising,NO,YES,ALL
+R574,Delhi-NCR,23,0,NA,NA,1,0,9,3,Instagram,2,2,Remain Constant,NO,Scrolling through social media,NO,YES,Roaming around freely
+R575,Delhi-NCR,18,0,Very poor,Smartphone,0,0,7,3,Instagram,2,4,Remain Constant,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R576,Delhi-NCR,19,2,Very poor,Laptop/Desktop,1,2,8,3,Instagram,2,4,Increased,NO,Sleeping,YES,NO,School/college
+R577,Delhi-NCR,19,2,Very poor,Smartphone,2,0,8,1.5,Instagram,1,2,Decreased,NO,Watching web series,NO,YES,Roaming around freely
+R578,Outside Delhi-NCR,19,3,Excellent,Laptop/Desktop,0,0,9,6,Whatsapp,0,2,Remain Constant,YES,Meditation,YES,YES,Nothing
+R579,Delhi-NCR,23,4,Very poor,Smartphone,4,1,8,2,Youtube,2,2,Increased,NO,Cooking,NO,YES,Eating outside
+R580,Delhi-NCR,25,0,NA,NA,2,1,9,2,Whatsapp,1,2,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R581,Delhi-NCR,22,4,Very poor,Laptop/Desktop,1,0,9,1,Youtube,1,4,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R582,Delhi-NCR,12,6,Good,Tablet,4,0,7,1,Youtube,2,4,Increased,NO,Online gaming,NO,YES,School/college
+R583,Delhi-NCR,8,2,Excellent,Laptop/Desktop,1,1,5,1,Youtube,1,2,Remain Constant,NO,Sleeping,YES,YES,School/college
+R584,Delhi-NCR,17,0.75,Excellent,Smartphone,4,1,7,1,Whatsapp,0.3,2,Decreased,NO,Sleeping,YES,YES,School/college
+R585,Delhi-NCR,21,3,Excellent,Laptop/Desktop,1,0,11,3,Twitter,2,1,Remain Constant,NO,Reading books,YES,NO,Eating outside
+R586,Delhi-NCR,14,3,Average,Smartphone,2,2,7,2,Whatsapp,2,3,Remain Constant,NO,Online gaming,YES,NO,School/college
+R587,Outside Delhi-NCR,20,4,Very poor,Smartphone,3,0,8,1,Facebook,0,1,Increased,NO,Scrolling through social media,NO,YES,NOTHING
+R588,Delhi-NCR,22,0,Very poor,Smartphone,2,1,6,0.5,Youtube,0,1,Decreased,NO,Talking to your relatives,YES,YES,Roaming around freely
+R589,Delhi-NCR,13,6,Average,Tablet,3,1,10,1,Snapchat,6,3,Remain Constant,NO,Talking to your relatives,YES,YES,ALL
+R590,Delhi-NCR,21,2,Very poor,Smartphone,0.5,1,8,1,Youtube,0,4,Increased,NO,Listening to music,YES,YES,Travelling
+R591,Delhi-NCR,36,3,Excellent,Laptop/Desktop,2,0,8,2,Facebook,0,3,Remain Constant,NO,Reading books,NO,YES,Eating outside
+R592,Delhi-NCR,13,4,Good,Any Gadget,3,1,9,3,Instagram,2,2,Decreased,NO,Cooking,YES,YES,Colleagues
+R593,Outside Delhi-NCR,24,2,Average,Smartphone,1,1,7,4,Instagram,0,3,Remain Constant,NO,Football,YES,YES,School/college
+R594,Outside Delhi-NCR,46,2,Very poor,Smartphone,0.5,0.25,7,1,Whatsapp,1,3,Remain Constant,NO,Cooking,NO,NO,Travelling
+R595,Delhi-NCR,16,5,Good,Laptop/Desktop,8,0.5,6,0.4,Instagram,0,3,Remain Constant,NO,Online gaming,YES,NO,Colleagues
+R596,Delhi-NCR,25,2,Good,Laptop/Desktop,3,0,7,2,Linkedin,3,2,Remain Constant,NO,Talking,YES,YES,Eating outside
+R597,Delhi-NCR,24,6,Good,Laptop/Desktop,8,0,9,2,Youtube,0,3,Decreased,YES,Reading,YES,YES,Colleagues
+R598,Delhi-NCR,17,4,Very poor,Smartphone,2,0,10,3,Facebook,4,2,Remain Constant,NO,Online surfing,YES,YES,School/college
+R599,Delhi-NCR,16,1,Average,Smartphone,2,0,10,2,Youtube,3,4,Remain Constant,NO,Online gaming,NO,YES,School/college
+R600,Delhi-NCR,20,3,Very poor,Laptop/Desktop,6,1,8,3,Instagram,1,4,Increased,NO,Online surfing,YES,YES,School/college
+R601,Delhi-NCR,40,5,Very poor,Laptop/Desktop,3,0,6,3,Whatsapp,0,3,Increased,YES,Sleeping,YES,YES,Being social 
+R602,Outside Delhi-NCR,32,1,Average,Laptop/Desktop,2,0.5,7,3,Whatsapp,0,3,Increased,YES,Scrolling through social media,NO,YES,Roaming around freely
+R603,Outside Delhi-NCR,14,5,Average,Smartphone,2,0,9,1,Whatsapp,2,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R604,Delhi-NCR,18,4,Average,Laptop/Desktop,2,3,7,4,Instagram,1,2,Decreased,NO,Online surfing,NO,NO,School/college
+R605,Delhi-NCR,52,0,Good,Laptop/Desktop,2,1,8,2,Youtube,0,4,Remain Constant,NO,Reading,YES,YES,Colleagues
+R606,Delhi-NCR,21,1,Very poor,Laptop/Desktop,8,0,8,2,Youtube,2,2,Decreased,YES,Scrolling through social media,YES,NO,"Friends , relatives"
+R608,Delhi-NCR,21,6,Very poor,Laptop/Desktop,3,0,8,4,Linkedin,1,3,Increased,YES,Listening to music,NO,NO,Eating outside
+R609,Delhi-NCR,21,4,Average,Laptop/Desktop,3,0,8,2,Whatsapp,1,3,Decreased,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R610,Delhi-NCR,22,1,Very poor,Laptop/Desktop,10,2,7,1,Whatsapp,0,3,Remain Constant,NO,Writing,YES,YES,Roaming around freely
+R611,Delhi-NCR,19,0,Very poor,Smartphone,4,0,8,4,Instagram,0,1,Increased,NO,Reading books,NO,NO,"Friends , relatives"
+R612,Outside Delhi-NCR,14,4,Good,Smartphone,1,1,8,1,Facebook,0.5,2,Increased,NO,Social Media,YES,NO,Colleagues
+R613,Delhi-NCR,18,1,Average,Smartphone,2,0,7,1,Whatsapp,0,3,Decreased,YES,Cooking,NO,YES,School/college
+R614,Delhi-NCR,17,2,Excellent,Smartphone,3,2,10,1,Youtube,1,2,Increased,NO,Watching web series,YES,YES,"Friends , relatives"
+R615,Delhi-NCR,21,2,Average,Laptop/Desktop,0,0,7,5,Youtube,0,3,Decreased,NO,Online gaming,NO,YES,Travelling
+R616,Delhi-NCR,22,2,Very poor,Laptop/Desktop,2,0,6,5,Instagram,0,2,Increased,NO,Online surfing,YES,YES,School/college
+R617,Outside Delhi-NCR,15,3,Very poor,Smartphone,2,0,10,1,Youtube,2,2,Increased,NO,Online surfing,NO,YES,School/college
+R618,Delhi-NCR,25,6,Good,Laptop/Desktop,0,1,7,3,Instagram,0,2,Increased,NO,Web Series,NO,YES,Colleagues
+R619,Outside Delhi-NCR,17,2,Excellent,Smartphone,3,1,8,1,Facebook,2,1,Increased,NO,Sleeping,YES,YES,School/college
+R620,Outside Delhi-NCR,25,1,Average,Laptop/Desktop,4,0.5,9,2,Whatsapp,5,3,Increased,NO,Online surfing,NO,YES,School/college
+R621,Delhi-NCR,22,1,Very poor,Smartphone,0,0,6,2,Instagram,2,3,Increased,YES,Watching web series,NO,NO,School/college
+R622,Outside Delhi-NCR,21,0,Very poor,Smartphone,3,0,8,4,Instagram,1,3,Remain Constant,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R623,Outside Delhi-NCR,20,1,Good,Laptop/Desktop,3,1,12,3,Youtube,2,4,Remain Constant,NO,Reading,YES,YES,School/college
+R624,Outside Delhi-NCR,21,2,Good,Smartphone,5,0,12,3,Youtube, ,4,Remain Constant,NO,Listening to music,NO,NO,Travelling
+R625,Delhi-NCR,13,3.5,Good,Smartphone,2,2,9,1,Whatsapp,6,1,Increased,YES,Listening to music,YES,YES,Colleagues
+R626,Delhi-NCR,32,6,Good,Laptop/Desktop,2,1,5,2,Youtube,2,2,Increased,NO,Dancing,YES,YES,Travelling
+R627,Delhi-NCR,34,2,Average,Laptop/Desktop,2,1,7,4,Facebook,2,2,Remain Constant,NO,Cooking,NO,NO,"Friends , relatives"
+R628,Delhi-NCR,22,0,Very poor,Smartphone,1,0,8,5,Whatsapp,1.5,3,Remain Constant,NO,Reading books,NO,NO,Roaming around freely
+R629,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,4,1,6,1,Linkedin,1,3,Remain Constant,YES,Meditation,YES,NO,School/college
+R630,Delhi-NCR,17,1,Good,Smartphone,1,1,8,2,Instagram,1,3,Increased,NO,Web Series,NO,YES,School/college
+R631,Delhi-NCR,13,4,Excellent,Smartphone,5,1,13,2,Whatsapp,3,2,Decreased,YES,Reading books,YES,YES,"Friends , relatives"
+R632,Delhi-NCR,30,4,Average,Laptop/Desktop,3,1,7,1,Youtube,1,3,Remain Constant,NO,singing,NO,NO,School/college
+R633,Delhi-NCR,21,2,Average,Smartphone,1,1,9,2,Youtube,2,3,Remain Constant,NO,Watching web series,NO,YES,School/college
+R634,Outside Delhi-NCR,28,3,Good,Laptop/Desktop,4,1,9,2,Youtube,0,3,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R635,Delhi-NCR,21,4,Very poor,Laptop/Desktop,3,0,6,2,Instagram,0,2,Remain Constant,NO,Online gaming,NO,NO,Eating outside
+R636,Outside Delhi-NCR,15,2,Excellent,Smartphone,5,3,11,1,Whatsapp,1,4,Increased,NO,Reading books,NO,YES,School/college
+R637,Delhi-NCR,16,1,Good,Smartphone,1,1,7,2,Youtube,2,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R638,Delhi-NCR,40,3,Average,Smartphone,1,0.5,7,4,Instagram,1,3,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R639,Delhi-NCR,43,2,Good,Laptop/Desktop,2,1,7,1,Whatsapp,1,2,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R640,Delhi-NCR,25,1,Average,Smartphone,2,0,10,1,Whatsapp,1,3,Increased,NO,Cooking,NO,YES,School/college
+R641,Outside Delhi-NCR,24,0,NA,NA,1,0,8,2,Linkedin,1,3,Increased,NO,Scrolling through social media,NO,NO,Previous mistakes
+R642,Outside Delhi-NCR,16,2,Good,NA,5,1,9,1,Instagram,1,1,Decreased,NO,Reading,YES,NO,School/college
+R643,Delhi-NCR,16,0.8,Very poor,NA,1,0,8,1,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R644,Delhi-NCR,34,2,Good,NA,1,1,9,2,Whatsapp,1,3,Increased,NO,Talking,YES,YES,Colleagues
+R645,Outside Delhi-NCR,28,2,Excellent,NA,2,1,7,1,Facebook,1,2,Decreased,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R646,Outside Delhi-NCR,17,0.75,Good,Smartphone,2,2,6,1,Instagram,1,3,Increased,NO,Exercise,YES,YES,School/college
+R647,Outside Delhi-NCR,18,0.75,Good,Smartphone,1,1,12,1,Facebook,1,3,Increased,NO,Exercise,YES,YES,School/college
+R648,Outside Delhi-NCR,17,0.75,Good,Smartphone,2,1,12,1,Instagram,1,3,Increased,NO,Exercise,YES,YES,School/college
+R649,Delhi-NCR,30,4,Excellent,Laptop/Desktop,4,0,5,6,Whatsapp,1,2,Remain Constant,NO,Watching web series,YES,YES,Roaming around freely
+R650,Delhi-NCR,19,4,Average,Laptop/Desktop,4,1,8,0,Youtube,0,2,Increased,NO,Online gaming,NO,NO,Roaming around freely
+R651,Delhi-NCR,21,0,Very poor,Smartphone,2,0,10,2,Instagram,0,3,Remain Constant,NO,Watching web series,NO,NO,Roaming around freely
+R652,Outside Delhi-NCR,20,4,Good,Laptop/Desktop,6,0,8,3,Facebook,0,3,Increased,NO,Online gaming,YES,YES,Travelling
+R653,Delhi-NCR,19,5,Very poor,Smartphone,1,1,5,2,Youtube,4,3,Increased,NO,Listening to music,NO,YES,School/college
+R654,Delhi-NCR,19,3,Very poor,Laptop/Desktop,2,1,8,3,Youtube,0,3,Remain Constant,NO,Dancing,NO,YES,School/college
+R655,Delhi-NCR,19,0,Very poor,Smartphone,0,0,12,4,Youtube,6,3,Decreased,NO,Watching web series,NO,NO,Travelling
+R656,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,2,1,7,1,Quora,0,3,Decreased,YES,Exercising,NO,YES,Roaming around freely
+R657,Delhi-NCR,19,4,Very poor,Smartphone,5,0,6,2,Whatsapp,0,3,Increased,NO,Reading books,YES,YES,School/college
+R658,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,3,0,8,4,Youtube,2,4,Increased,YES,Meditation,NO,NO,Travelling
+R659,Outside Delhi-NCR,19,2,Very poor,Laptop/Desktop,2,1,9,1,Instagram,0,2,Decreased,YES,Listening to music,YES,YES,Travelling
+R660,Delhi-NCR,21,6,Very poor,Smartphone,4,1,7,2,Whatsapp,0,4,Increased,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R661,Delhi-NCR,20,4,Very poor,Smartphone,3,0,8,3,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,Travelling
+R662,Delhi-NCR,20,4,Very poor,Laptop/Desktop,4,1,7,1,Instagram,2,4,Remain Constant,NO,Sleeping,NO,YES,"Friends , relatives"
+R663,Delhi-NCR,20,5,Average,Laptop/Desktop,0.5,0,8,1,Whatsapp,0.5,3,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R664,Delhi-NCR,20,5,Very poor,Smartphone,2,1,7,1,Youtube,0,5,Increased,NO,Cardio,YES,YES,Roaming around freely
+R665,Outside Delhi-NCR,22,6,Average,Smartphone,2,1,11,6,Instagram,2,4,Increased,YES,Watching web series,NO,NO,"Friends , relatives"
+R666,Delhi-NCR,22,3,Very poor,Laptop/Desktop,2,0,9,4,Instagram,1,4,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R667,Delhi-NCR,21,1,Average,Smartphone,1,2,8,2,Instagram,0.5,3,Decreased,NO,Online gaming,NO,YES,Roaming around freely
+R668,Delhi-NCR,30,2,Very poor,Laptop/Desktop,1,1,5,1,Youtube,0,3,Remain Constant,NO,Talking to your relatives,YES,YES,Roaming around freely
+R669,Delhi-NCR,21,2,Very poor,Laptop/Desktop,2,0,6,3,Whatsapp,0,3,Remain Constant,NO,Online surfing,NO,NO,"Friends , relatives"
+R670,Delhi-NCR,22,3,Average,Laptop/Desktop,3,1,8,3,Instagram,0,2,Decreased,NO,Dancing,YES,NO,"Friends , relatives"
+R671,Outside Delhi-NCR,21,4,Good,Smartphone,3,1,8,3,Instagram,3,3,Increased,NO,Online gaming,YES,YES,Colleagues
+R672,Outside Delhi-NCR,21,5,Very poor,Smartphone,1,0.5,9,1.5,Instagram,0,3,Remain Constant,NO,Scrolling through social media,NO,NO,Roaming around freely
+R673,Outside Delhi-NCR,19,5,Good,Laptop/Desktop,3,0,9,5,Whatsapp,1,3,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R674,Delhi-NCR,22,1,Very poor,Laptop/Desktop,2,1,9,1.5,Whatsapp,0.5,3,Remain Constant,YES,Watching web series,NO,NO,"Friends , relatives"
+R675,Delhi-NCR,20,6,Average,Laptop/Desktop,2,1,8,4,Instagram,0,2,Remain Constant,NO,Online gaming,NO,NO,Roaming around freely
+R676,Delhi-NCR,21,3,Excellent,Laptop/Desktop,6.5,0,7,0.5,Whatsapp,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R678,Outside Delhi-NCR,21,3,Average,Laptop/Desktop,2,1,7,2,Youtube,1,3,Decreased,NO,Online surfing,YES,YES,Travelling
+R679,Outside Delhi-NCR,21,0,Very poor,Laptop/Desktop,4,1,8,1,Linkedin,0,4,Remain Constant,NO,Scrolling through social media,YES,NO,Roaming around freely
+R680,Outside Delhi-NCR,21,5,Good,Laptop/Desktop,4,2,8,1,Instagram,0,4,Decreased,YES,Cooking,NO,NO,Travelling
+R681,Delhi-NCR,22,0,Very poor,Smartphone,0.5,1,10,1,Youtube,0,3,Increased,NO,Online gaming,NO,YES,Eating outside
+R682,Delhi-NCR,20,0,Very poor,Laptop/Desktop,0,0,10,10,Instagram,0,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R683,Delhi-NCR,20,3,Good,Laptop/Desktop,3,1,7,2,Instagram,1,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R684,Delhi-NCR,18,2,Average,Smartphone,1,1,10,4,Youtube,1,4,Increased,NO,Online gaming,NO,NO,Eating outside
+R685,Delhi-NCR,19,0,Average,Laptop/Desktop,3,1,9,2,Instagram,0,2,Remain Constant,NO,Online gaming,NO,NO,Eating outside
+R686,Delhi-NCR,21,3,Average,Laptop/Desktop,4,1,7,1,Youtube,2,4,Decreased,NO,Meditation,NO,YES,"Friends , relatives"
+R687,Outside Delhi-NCR,19,4,Poor,Laptop/Desktop,5,2,7,0.5,Whatsapp,0,4,Remain Constant,YES,Listening to music,YES,YES,School/college
+R688,Outside Delhi-NCR,22,3,Very poor,Laptop/Desktop,3,0,7,4,Youtube,0,3,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R689,Delhi-NCR,21,7,Very poor,Laptop/Desktop,0,0,8,3,Instagram,0,3,Remain Constant,NO,Online surfing,YES,NO,Eating outside
+R690,Outside Delhi-NCR,20,0,Very poor,Laptop/Desktop,2,2,9,2,Instagram,0.5,3,Decreased,NO,Listening to music,YES,YES,School/college
+R691,Delhi-NCR,20,4,Very poor,Smartphone,2,1,6,2,Instagram,1,3,Increased,NO,I cant de-stress myslef,YES,YES,all
+R692,Delhi-NCR,21,4,Good,Smartphone,2,1,7,3,Instagram,0,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R693,Delhi-NCR,23,3,Very poor,Laptop/Desktop,6,1,7,1.5,Instagram,0.5,3,Increased,YES,working out and some physical activity,YES,YES,School/college
+R694,Delhi-NCR,22,0,Very poor,Laptop/Desktop,1,0,14,2,Whatsapp,2,3,Increased,NO,Sleeping,NO,NO,Roaming around freely
+R695,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,1,2,12,2,Whatsapp,2,3,Remain Constant,NO,Listening to music,YES,YES,ALL
+R696,Delhi-NCR,20,6,Very poor,Laptop/Desktop,6,1,8,0,Linkedin,1,3,Decreased,NO,Online surfing,NO,YES,nothing
+R697,Delhi-NCR,21,3,Average,Laptop/Desktop,3,0,9,2,Linkedin,0,8,Increased,NO,Watching web series,YES,YES,Roaming around freely
+R698,Delhi-NCR,19,1,Average,Laptop/Desktop,3,0,10,4,Instagram,0,3,Decreased,NO,Online surfing,NO,NO,Roaming around freely
+R699,Delhi-NCR,22,0,Average,Laptop/Desktop,6,1,6,1,Youtube,2,3,Remain Constant,NO,Online gaming,YES,YES,Gym
+R700,Outside Delhi-NCR,20,3,Poor,Laptop/Desktop,5,1,7,1,Whatsapp,0,3,Increased,YES,Watching web series,NO,NO,Roaming around freely
+R701,Outside Delhi-NCR,19,1,Average,Laptop/Desktop,2,1,7,3,Instagram,0,3,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R702,Delhi-NCR,22,2,Good,Laptop/Desktop,10,1,6,1,Whatsapp,0,6,Increased,NO,Listening to music,YES,YES,Travelling
+R703,Delhi-NCR,19,2,Very poor,Laptop/Desktop,1,2,5,4,Instagram,1,2,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R704,Delhi-NCR,18,3,Average,Smartphone,1,1,9,4,Instagram,0.5,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R705,Delhi-NCR,20,2,Average,Laptop/Desktop,2,1,9,1,Youtube,1,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R706,Delhi-NCR,19,2,Very poor,Laptop/Desktop,2,0,12,2,Whatsapp,0,2,Decreased,NO,Listening to music,YES,YES,School/college
+R707,Delhi-NCR,23,2,Average,Smartphone,5,1,12,1,Linkedin,0,3,Remain Constant,YES,Listening to music,YES,NO,School/college
+R708,Delhi-NCR,19,0,Average,Smartphone,1,0,8,4,Youtube,3,3,Increased,NO,Online gaming,NO,YES,Roaming around freely
+R709,Delhi-NCR,18,0,NA,NA,1,1,10,9,Instagram,2,3,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R710,Outside Delhi-NCR,19,2,Good,Laptop/Desktop,3,1,8,2,Youtube,1,3,Remain Constant,YES,Reading,YES,YES,School/college
+R711,Delhi-NCR,17,7,Very poor,Laptop/Desktop,3,2,6,2,Instagram,0,4,Remain Constant,NO,Sleeping,YES,NO,Eating outside
+R712,Delhi-NCR,18,7,Average,Laptop/Desktop,2,1,8,3,Whatsapp,1,3,Decreased,NO,Watching web series,YES,YES,"Friends , relatives"
+R713,Delhi-NCR,22,2,Good,Any Gadget,1.5,1,7,1,Youtube,2,3,Increased,NO,Web Series,NO,NO,Travelling
+R714,Delhi-NCR,21,4,Average,Laptop/Desktop,4,0,7,2,Whatsapp,1,3,Increased,NO,Watching web series,YES,YES,"Friends , relatives"
+R715,Delhi-NCR,17,3,Average,Laptop/Desktop,2,0,6,2,Instagram,0,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R716,Delhi-NCR,19,0,Good,Tablet,0.5,1,6,2,Instagram,1,4,Increased,NO,Web Series,NO,YES,School/college
+R717,Delhi-NCR,20,5,Very poor,Smartphone,2,2,6,3,Youtube,2,2,Decreased,NO,Reading books,NO,NO,Roaming around freely
+R718,Delhi-NCR,17,4,Very poor,Smartphone,1,0,6,2,Instagram,0,3,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R719,Delhi-NCR,21,3,Very poor,Laptop/Desktop,3,1,8,3,Instagram,2,2,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R720,Delhi-NCR,19,2,Average,Smartphone,2,0,9,5,Instagram,1,2,Remain Constant,NO,Sleeping,NO,NO,School/college
+R721,Delhi-NCR,20,1.5,Very poor,Smartphone,2.5,2,9,1,Youtube,1.5,2,Decreased,YES,Listening to music,NO,YES,Travelling
+R722,Delhi-NCR,21,3,Very poor,Laptop/Desktop,3,0,9,4,Snapchat,0.75,4,Increased,NO,Sleeping,NO,NO,School/college
+R723,Outside Delhi-NCR,19,2,Average,Laptop/Desktop,4,1,6,3,Instagram,1,4,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R724,Delhi-NCR,38,4,Excellent,Laptop/Desktop,5,1,6,1,Youtube,2,3,Increased,NO,Online gaming,YES,YES,Roaming around freely
+R725,Delhi-NCR,19,3,Average,Smartphone,7,1,6,1,Linkedin,1,4,Increased,NO,Talking to your relatives,YES,YES,School/college
+R726,Delhi-NCR,17,2,Average,Laptop/Desktop,0,0,11,1.5,Instagram,2,4,Remain Constant,NO,Talking to your relatives,NO,YES,Eating outside
+R727,Outside Delhi-NCR,18,3,Good,Laptop/Desktop,3,0,10,2,Instagram,0,2,Increased,NO,Listening to music,NO,YES,Colleagues
+R728,Delhi-NCR,20,5,Very poor,Laptop/Desktop,2,3,10,1,Youtube,0.5,2,Decreased,YES,Writing my own Comics & novels,YES,YES,Playing
+R729,Delhi-NCR,20,2,Very poor,Smartphone,6,1,5,4,Youtube,0.5,1,Increased,YES,Listening to music,YES,YES,Travelling
+R730,Delhi-NCR,23,0,Average,Laptop/Desktop,1,1,9,3,Linkedin,0,3,Increased,NO,Listening to music,YES,YES,Travelling
+R731,Outside Delhi-NCR,29,2,Average,Laptop/Desktop,2,1,8,0,Youtube,0,2,Remain Constant,NO,Reading books,NO,YES,nothing
+R732,Delhi-NCR,20,0,Very poor,Laptop/Desktop,6,0,9,1,Whatsapp,1,3,Increased,NO,Sleeping,NO,NO,Travelling
+R733,Outside Delhi-NCR,22,1,Very poor,Smartphone,4,0.25,10,1,Linkedin,0,3,Remain Constant,NO,Sleeping,NO,YES,.
+R734,Delhi-NCR,18,2,Average,Laptop/Desktop,3,1,8,2,Youtube,3,3,Increased,NO,Online surfing,YES,YES,School/college
+R735,Delhi-NCR,15,4,Good,Smartphone,4,1,4,3,Youtube,2,3,Remain Constant,NO,Sleeping,YES,YES,Colleagues
+R736,Delhi-NCR,19,4,Average,Smartphone,5,1,8,2,Youtube,1,3,Remain Constant,NO,Meditation,YES,YES,Travelling
+R737,Delhi-NCR,20,2,Very poor,Smartphone,2,0,9,10,Youtube,1,2,Decreased,NO,Online gaming,YES,YES,Nothing
+R738,Outside Delhi-NCR,21,1,Very poor,Smartphone,4,1,9,1,Whatsapp,1,3,Remain Constant,NO,Watching web series,YES,NO,Eating outside
+R739,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,3,0,8,2,Youtube,1,3,Decreased,NO,Online gaming,YES,YES,Roaming around freely
+R740,Delhi-NCR,20,4,Very poor,Smartphone,1,1,10,2,Instagram,1,3,Increased,YES,Dancing,NO,YES,Eating outside
+R741,Delhi-NCR,20,2,Average,Smartphone,1,2,8,4,Facebook,2,4,Decreased,NO,Reading books,NO,YES,Travelling
+R742,Outside Delhi-NCR,19,0,Very poor,Smartphone,2,1,7,4,Instagram,0,2,Remain Constant,NO,Meditation,NO,YES,Travelling
+R743,Outside Delhi-NCR,28,3,Good,Laptop/Desktop,1,0,10,1,Whatsapp,0,2,Increased,NO,Online gaming,NO,YES,Eating outside
+R744,Delhi-NCR,19,6,Good,Laptop/Desktop,6,0,8,2,Youtube,0.5,2,Increased,NO,Listening to music,YES,NO,Travelling
+R745,Delhi-NCR,21,2,Average,Smartphone,2,1,8,1,Youtube,0,3,Remain Constant,NO,Sleeping,NO,NO,"Friends , relatives"
+R746,Delhi-NCR,23,0,Good,Laptop/Desktop,3,0,10,4,Youtube,1,3,Increased,NO,Online gaming,NO,YES,Eating outside
+R747,Delhi-NCR,20,3,Good,Laptop/Desktop,2,1,7,5,Whatsapp,2,3,Remain Constant,NO,Reading,NO,YES,School/college
+R748,Delhi-NCR,22,4,Good,Laptop/Desktop,2,1,12,2,Instagram,2,3,Remain Constant,NO,Talking,NO,YES,School/college
+R749,Delhi-NCR,20,2,Average,Smartphone,4,1,8,2,Youtube,0,3,Increased,NO,Listening to music,YES,YES,School/college
+R750,Outside Delhi-NCR,22,0,NA,NA,0,1,5,4,Instagram,0,2,Decreased,NO,Watching web series,NO,YES,Travelling
+R751,Outside Delhi-NCR,20,5,Good,Laptop/Desktop,4,1,7,3,Youtube,1,3,Increased,NO,Reading,YES,YES,Travelling
+R752,Outside Delhi-NCR,23,3,Good,Laptop/Desktop,2,1,6,1,Whatsapp,0,2,Remain Constant,NO,Reading,YES,YES,Eating outside
+R753,Outside Delhi-NCR,21,2,Very poor,Smartphone,2,1,8,4,Whatsapp,1,4,Increased,NO,Scrolling through social media,NO,YES,Travelling
+R754,Delhi-NCR,19,3,Very poor,Smartphone,2,1,9,5,Instagram,1,3,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R755,Outside Delhi-NCR,23,3,Good,Laptop/Desktop,5,0,6,1,Youtube,0,2,Remain Constant,NO,Web Series,NO,YES,School/college
+R756,Outside Delhi-NCR,20,4,Average,Smartphone,2,0,8,2,Whatsapp,4,3,Remain Constant,NO,Sleeping,YES,YES,"Friends , relatives"
+R757,Outside Delhi-NCR,22,2,Good,Laptop/Desktop,2,1,8,2,Whatsapp,0,4,Increased,NO,Web Series,YES,YES,Travelling
+R758,Delhi-NCR,19,2,Poor,Smartphone,2,2,8,3,Youtube,0,4,Decreased,YES,Gym,YES,NO,Roaming around freely
+R759,Outside Delhi-NCR,21,5,Very poor,Smartphone,4,1,7,1,Youtube,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R760,Outside Delhi-NCR,20,0,Very poor,Smartphone,5,0,8,1,Youtube, ,3,Decreased,YES,I have no problem of stress ,NO,YES,I have missed nothing 
+R761,Outside Delhi-NCR,21,1,Very poor,Laptop/Desktop,5,1,11,2,Instagram,0,3,Increased,NO,workout,NO,YES,Eating outside
+R762,Delhi-NCR,22,5,Good,Laptop/Desktop,3,0,7,2,Whatsapp,0,3,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R763,Delhi-NCR,18,4,Good,Smartphone,2,0.5,6,2,Whatsapp,0,4,Remain Constant,NO,Online gaming,YES,NO,School/college
+R764,Delhi-NCR,21,1,Good,Laptop/Desktop,1,2,7,2,Youtube,0,3,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R765,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,5,0.3,8,1,Linkedin,1,3,Increased,YES,Listening to music,NO,NO,Roaming around freely
+R766,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,3,1,9,3,Instagram,1,2,Increased,NO,Meditation,NO,YES,"Friends , relatives"
+R767,Delhi-NCR,19,6,Very poor,Smartphone,4,2,6,2,Instagram,0,4,Decreased,YES,Online gaming,YES,YES,"Friends , relatives"
+R768,Delhi-NCR,21,0.5,Very poor,Smartphone,2,1,9,1,Youtube,0,3,Increased,NO,Reading books,NO,YES,Travelling
+R769,Delhi-NCR,21,1,Very poor,Laptop/Desktop,0,0,9,3,Whatsapp,0,3,Remain Constant,NO,Watching web series,NO,NO,School/college
+R770,Delhi-NCR,19,4,Very poor,Smartphone,2,1,9,7,Instagram,3,3,Increased,NO,Sleeping,NO,YES,School/college
+R771,Outside Delhi-NCR,21,2,Very poor,Smartphone,2,0,8,1,Twitter,0,3,Increased,YES,Reading books,NO,YES,School/college
+R772,Outside Delhi-NCR,23,5.5,Excellent,Laptop/Desktop,3,1,8,1,Whatsapp,0,2,Decreased,NO,Watching web series,YES,YES,School/college
+R773,Delhi-NCR,21,0,Very poor,Smartphone,0,0,9,4,Youtube,0,4,Increased,NO,Watching web series,NO,NO,Eating outside
+R774,Delhi-NCR,40,6,Average,Laptop/Desktop,3,0,7,2,Whatsapp,2,3,Remain Constant,NO,No able to reduce the stress ,NO,YES,Travelling
+R775,Delhi-NCR,20,4,Good,Laptop/Desktop,1,0,9,2,Instagram,0,3,Increased,NO,Social Media,NO,YES,School/college
+R776,Outside Delhi-NCR,40,5,Excellent,Laptop/Desktop,4,0.5,6,1,Whatsapp,2,2,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R777,Delhi-NCR,19,3,Average,Smartphone,1,1,6,2,Instagram,0,3,Decreased,NO,Watching web series,YES,YES,School/college
+R778,Outside Delhi-NCR,18,2,Very poor,Laptop/Desktop,4,0,8,1.5,Instagram,0,2,Remain Constant,NO,Watching web series,NO,NO,School/college
+R779,Delhi-NCR,23,3,Average,Laptop/Desktop,2,1,6,3,Twitter,2,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R780,Outside Delhi-NCR,21,7,Average,Laptop/Desktop,8,0,6,1,Linkedin,1,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R781,Outside Delhi-NCR,12,5,Average,Smartphone,2,1,7,0,None,1,4,Remain Constant,NO,Cooking,YES,YES,"Friends , relatives"
+R782,Outside Delhi-NCR,20,0.5,Very poor,Smartphone,1,1,8,0.5,Whatsapp,2.5,3,Remain Constant,NO,"Sleeping, Online games",NO,YES,All
+R783,Delhi-NCR,22,0,NA,NA,2,1,8,2,Instagram,2,3,Remain Constant,NO,Dancing,YES,YES,School/college
+R784,Outside Delhi-NCR,30,4,Average,Laptop/Desktop,3,1,7.8,4,Whatsapp,2,3,Increased,NO,Watching web series,NO,NO,Roaming around freely
+R785,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,1,1,8,2,Instagram,2,4,Remain Constant,NO,Watching web series,YES,YES,"Friends , relatives"
+R786,Delhi-NCR,20,1,Very poor,Laptop/Desktop,0,0,8,4,Whatsapp,0,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R787,Delhi-NCR,22,3,Average,Laptop/Desktop,5,0,8,2,Instagram,0,2,Remain Constant,YES,Listening to music,YES,YES,"Friends , relatives"
+R788,Delhi-NCR,40,1,Excellent,Laptop/Desktop,2,1,6.7,1,Whatsapp,1,2,Remain Constant,NO,Online surfing,YES,YES,"Friends , relatives"
+R789,Outside Delhi-NCR,24,5,Excellent,Laptop/Desktop,3,3,8,2,Whatsapp,2,3,Remain Constant,NO,By engaging in my work.,YES,YES,ALL
+R790,Outside Delhi-NCR,18,4,Very poor,Smartphone,1,2,9,2,Whatsapp,0.5,2,Decreased,NO,Listening to music,NO,YES,Roaming around freely
+R791,Outside Delhi-NCR,22,1,Very poor,Smartphone,2,1,5,10,Instagram,0,2,Decreased,NO,Watching web series,NO,NO,Roaming around freely
+R792,Outside Delhi-NCR,20,7,Poor,Smartphone,2,0,8,3,Instagram,0,2,Remain Constant,YES,Scrolling through social media,NO,YES,Travelling & Friends
+R793,Delhi-NCR,35,3,Good,Laptop/Desktop,3,1,7,1,Whatsapp,1,3,Remain Constant,NO,Sleeping,NO,NO,School/college
+R794,Delhi-NCR,40,2,Poor,Smartphone,3,0,5,1,Whatsapp,1,4,Increased,NO,Watching web series,NO,YES,School/college
+R795,Outside Delhi-NCR,18,0,Poor,Laptop/Desktop,2,2,7,4,Instagram,1,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R796,Outside Delhi-NCR,19,4,Very poor,Smartphone,0,0,7,1,Youtube,0,2,Increased,NO,Listening to music,NO,NO,Eating outside
+R797,Delhi-NCR,35,4,Average,Laptop/Desktop,4,2,10,2,Facebook,1,3,Remain Constant,NO,Online gaming,YES,YES,Roaming around freely
+R798,Delhi-NCR,16,5,Very poor,Laptop/Desktop,4,0.5,8,0.5,Youtube,0,3,Increased,NO,Reading books,NO,NO,Eating outside
+R799,Outside Delhi-NCR,30,1,Good,Smartphone,1,1,7,1,Whatsapp,0,4,Remain Constant,NO,Dancing,NO,YES,School/college
+R800,Delhi-NCR,23,5,Excellent,Laptop/Desktop,2,1,8,1,Whatsapp,4,3,Remain Constant,YES,Meditation,YES,YES,"Friends , relatives"
+R801,Outside Delhi-NCR,19,2,Average,Laptop/Desktop,5,0,9,2,Instagram,0.5,3,Increased,YES,Talking to your relatives,NO,YES,"Friends , relatives"
+R802,Outside Delhi-NCR,19,4,Very poor,Smartphone,2,1,8,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R803,Outside Delhi-NCR,37,4,Good,Laptop/Desktop,5,1,7,4,Instagram,0,2,Increased,NO,Talking,YES,YES,Travelling
+R804,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,0,7,1,Instagram,0,2,Increased,NO,Scrolling through social media,NO,NO,School/college
+R805,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,4,0,9,2,Youtube,1,4,Increased,NO,Scrolling through social media,YES,NO,"Friends , relatives"
+R806,Delhi-NCR,24,0,Average,Smartphone,1,1,8,1,Linkedin,0,3,Remain Constant,NO,Work,YES,NO,Roaming around freely
+R807,Delhi-NCR,40,0,Average,Laptop/Desktop,0,1,10,2,Whatsapp,1,3,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R808,Outside Delhi-NCR,20,2,Very poor,Smartphone,1,0.5,8,2,Youtube,5,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R809,Outside Delhi-NCR,23,3,Poor,Smartphone,4,0,9,3,Facebook,0,2,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R810,Delhi-NCR,26,3,Very poor,Laptop/Desktop,2,1,8,1,Youtube,0,4,Increased,NO,Listening to music,YES,YES,Roaming around freely
+R811,Outside Delhi-NCR,20,5,Good,Smartphone,3,0,7,2,Youtube,2,4,Remain Constant,NO,Online gaming,NO,YES,Travelling
+R812,Outside Delhi-NCR,22,0,Very poor,Smartphone,4,1,8,0,None,0,4,Remain Constant,YES,"Painting,. Sewing",NO,NO,Travelling
+R813,Outside Delhi-NCR,14,5,Good,Laptop/Desktop,4,0,8,2,Facebook,2,3,Increased,NO,Sleeping,NO,YES,School/college
+R814,Outside Delhi-NCR,20,0,Very poor,Smartphone,1,0,10,4,Youtube,1,3,Increased,NO,Online gaming,NO,YES,Travelling
+R815,Outside Delhi-NCR,22,0,Average,Smartphone,0,0,10,5,Facebook,4,2,Remain Constant,NO,Drawing,NO,YES,School/college
+R816,Outside Delhi-NCR,40,5,Average,Smartphone,2,1,8,4,Whatsapp,6,3,Remain Constant,NO,Scrolling through social media,YES,YES,Roaming around freely
+R817,Outside Delhi-NCR,23,1,Poor,Smartphone,2,1,8,2,Instagram,2,2,Increased,YES,Meditation,NO,YES,School/college
+R818,Outside Delhi-NCR,21,3,Very poor,Smartphone,2,2,7,3,Whatsapp,3,2,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R819,Outside Delhi-NCR,21,5,Average,Smartphone,5,0,5,2,Instagram,1,2,Remain Constant,NO,Listening to music,YES,NO,To stay alone. 
+R820,Delhi-NCR,34,2,Average,Smartphone,1,1,7,4,Whatsapp,2,3,Increased,NO,Scrolling through social media,YES,YES,Travelling
+R821,Outside Delhi-NCR,40,1,Average,Smartphone,1,1,8,3,Facebook,2,2,Decreased,NO,Forming ,NO,YES,School/college
+R822,Outside Delhi-NCR,22,3,Good,Smartphone,2,1,8,2,Youtube,1,2,Remain Constant,NO,Online gaming,YES,NO,Colleagues
+R823,Outside Delhi-NCR,21,2,Very poor,Smartphone,0,2,8,4,Instagram,2,2,Remain Constant,NO,Cooking,NO,NO,Travelling
+R824,Outside Delhi-NCR,18,2,Poor,Smartphone,1,1,8.5,2,Whatsapp,3,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R825,Outside Delhi-NCR,22,2,Average,Laptop/Desktop,7,1,9,2,Instagram,0,2,Decreased,NO,Scrolling through social media,NO,NO,Roaming around freely
+R826,Outside Delhi-NCR,21,0,Very poor,Smartphone,2,3,9,1,Whatsapp,1,1,Decreased,YES,Online surfing,NO,NO,Roaming around freely
+R827,Outside Delhi-NCR,22,3,Very poor,Laptop/Desktop,5,1,8,3,Facebook,1,4,Remain Constant,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R828,Outside Delhi-NCR,21,2,Good,Laptop/Desktop,2,2,7,0.5,Whatsapp,0,4,Remain Constant,NO,Reading,YES,YES,Colleagues
+R829,Outside Delhi-NCR,21,3,Very poor,Laptop/Desktop,12,0,6,1,Linkedin,0,2,Decreased,YES,Scrolling through social media,NO,NO,School/college
+R830,Delhi-NCR,21,2,Very poor,Smartphone,3,0,8,2,Instagram,0,2,Increased,YES,Listening to music,NO,NO,School/college
+R831,Outside Delhi-NCR,20,4,Very poor,Laptop/Desktop,4,0,11,3,Instagram,0,3,Increased,NO,Watching web series,NO,NO,Eating outside
+R832,Delhi-NCR,20,4,NA,NA,3,1,7,2,Whatsapp,2,4,Remain Constant,NO,Watching web series,YES,YES,ALL
+R833,Delhi-NCR,21,3,Very poor,Laptop/Desktop,5,0,7,1,Youtube,0,4,Remain Constant,NO,Online gaming,YES,NO,Eating outside
+R834,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,5,0.5,8,1,Whatsapp,2,3,Increased,NO,Meditation,YES,YES,"Friends , relatives"
+R835,Outside Delhi-NCR,21,4,Average,Laptop/Desktop,4,0,6,4,Whatsapp,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R836,Delhi-NCR,21,3,Very poor,Smartphone,8,1,8,1,Whatsapp,0,3,Remain Constant,NO,Meditation,YES,NO,"Friends , relatives"
+R837,Delhi-NCR,21,5,Average,Smartphone,6,0,5,2,Youtube,0,3,Increased,YES,Online gaming,YES,YES,Eating outside
+R838,Outside Delhi-NCR,40,6,Excellent,Laptop/Desktop,2,1,6,2,Whatsapp,2,3,Decreased,NO,Listening to music,YES,NO,School/college
+R839,Delhi-NCR,20,2,Very poor,Smartphone,3,2,8,1,Youtube,1,3,Increased,NO,Listening to music,NO,NO,School/college
+R840,Delhi-NCR,22,4,Good,Laptop/Desktop,2,1,8,5,Whatsapp,0,3,Remain Constant,NO,Social Media,NO,YES,School/college
+R841,Delhi-NCR,19,5,Average,Smartphone,6,1,6,0,Whatsapp,0,3,Remain Constant,NO,Online surfing,YES,YES,School/college
+R842,Delhi-NCR,22,3,Good,Smartphone,3,0,12,1,Youtube,4,2,Remain Constant,NO,Online gaming,NO,NO,All
+R843,Delhi-NCR,20,6,Very poor,Laptop/Desktop,4,1,6,3,Whatsapp,0.5,3,Remain Constant,NO,Watching web series,YES,YES,"Friends , relatives"
+R844,Delhi-NCR,36,4,Good,Laptop/Desktop,2,1,10,1,Youtube,1,3,Increased,NO,Sleeping,YES,YES,Colleagues
+R845,Delhi-NCR,23,4,Good,Laptop/Desktop,2,0.5,7,3,Youtube,1,3,Remain Constant,NO,Talking,YES,YES,Travelling
+R846,Outside Delhi-NCR,32,2,Average,Laptop/Desktop,3,0,9,2,None,0.5,3,Increased,NO,Reading books,NO,YES,School/college
+R847,Outside Delhi-NCR,24,2,Average,Smartphone,3,0.5,9,2,Twitter,0,2,Remain Constant,NO,Sleeping,YES,YES,Family
+R848,Outside Delhi-NCR,20,5,Average,Laptop/Desktop,4,1,8,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R849,Delhi-NCR,22,2,Excellent,Laptop/Desktop,3,1,8,2,Instagram,1,3,Decreased,NO,Online surfing,YES,YES,Eating outside
+R850,Delhi-NCR,20,5,Very poor,Laptop/Desktop,1,0,8,1,Youtube,0.5,2,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R851,Delhi-NCR,21,4,Very poor,Laptop/Desktop,2,0,10,2,Whatsapp,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R852,Outside Delhi-NCR,38,4,Very poor,Laptop/Desktop,3,1,6,2,Youtube,2,3,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R853,Delhi-NCR,27,3,Good,Laptop/Desktop,2,1,8,2,Instagram,0.5,4,Decreased,YES,Web Series,NO,NO,Travelling
+R854,Outside Delhi-NCR,20,2,Average,Laptop/Desktop,2,0,7,2,Whatsapp,1,3,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R855,Outside Delhi-NCR,21,2,Very poor,Laptop/Desktop,12,1,9,5,Youtube,1,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R856,Delhi-NCR,20,8,Very poor,Laptop/Desktop,2,0,6,2,Linkedin,3,3,Decreased,NO,Listening to music,NO,YES,Eating outside
+R857,Delhi-NCR,20,4,Average,Smartphone,1,0,6,10,Talklife,2,1,Remain Constant,NO,Online surfing,NO,NO,School/college
+R858,Delhi-NCR,22,5,Average,Smartphone,4,1,6,2,Instagram,2,3,Increased,NO,Listening to music,YES,YES,School/college
+R859,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,1,8,0.75,Whatsapp,1,3,Remain Constant,NO,Listening to music,NO,NO,Badminton in court
+R860,Outside Delhi-NCR,21,3,Very poor,Laptop/Desktop,1,0,8,1,Instagram,0,3,Increased,NO,Listening to music,NO,YES,Roaming around freely
+R861,Delhi-NCR,21,4,Very poor,Smartphone,6,0,9,2,Youtube,0,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R862,Delhi-NCR,21,4,Very poor,Smartphone,1,1,7,2,Instagram,0,4,Increased,NO,Scrolling through social media,YES,YES,Eating outside
+R863,Delhi-NCR,21,4,Average,Smartphone,2,2,12,2,Instagram,0,2,Decreased,NO,Online surfing,NO,YES,"Friends , relatives"
+R864,Delhi-NCR,20,5,Average,Smartphone,5,1,6,2,Instagram,1,3,Increased,NO,Listening to music,NO,YES,School/college
+R865,Delhi-NCR,33,2,Very poor,Laptop/Desktop,1,1,7,1,Youtube,0,3,Remain Constant,YES,Online surfing,NO,YES,Travelling
+R866,Delhi-NCR,20,4,Very poor,Smartphone,5,1,10,3,Whatsapp,0,2,Remain Constant,NO,Listening to music,NO,NO,School/college
+R867,Delhi-NCR,21,3,Average,Smartphone,2,2,7,1,Whatsapp,3,2,Remain Constant,NO,Workout and listening music,YES,YES,Travelling
+R868,Delhi-NCR,20,6,Average,Laptop/Desktop,2,2,7,3,Whatsapp,1,4,Decreased,NO,Meditation,YES,NO,"Friends , relatives"
+R869,Delhi-NCR,37,2,Good,Laptop/Desktop,1,1,7,0.5,Whatsapp,1,2,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R870,Delhi-NCR,22,5,Average,Smartphone,3,0,8,3,Instagram,0,3,Remain Constant,NO,Both listining music and scrolling down social media,NO,YES,School/college
+R871,Outside Delhi-NCR,33,4,Average,Laptop/Desktop,1,0,7,1,Whatsapp,N,4,Increased,NO,Cooking,YES,YES,School/college
+R872,Outside Delhi-NCR,17,1,Very poor,Smartphone,2,0,7,2,Snapchat,1,3,Increased,YES,Dancing,NO,NO,"Friends , relatives"
+R873,Outside Delhi-NCR,20,4,Average,Smartphone,5,1,7,0.5,Instagram,0,3,Decreased,NO,Listening to music,YES,YES,School/college
+R874,Delhi-NCR,19,2,Average,Laptop/Desktop,2,1,9,2,Instagram,1,4,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R875,Outside Delhi-NCR,20,4,Average,Smartphone,3,1,7,1,Youtube,1,2,Increased,NO,Meditation,YES,YES,Travelling
+R876,Outside Delhi-NCR,21,3,Very poor,Smartphone,4,1,5,2,Youtube,0,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R877,Delhi-NCR,17,7,Very poor,Smartphone,2,1,6,3,Youtube,1,3,Increased,NO,Watching web series,NO,YES,Travelling
+R878,Outside Delhi-NCR,20,3,Poor,Smartphone,2,0,7,3,Youtube,1,2,Decreased,YES,Watching web series,NO,YES,"Friends, relatives & travelling"
+R879,Outside Delhi-NCR,20,7,Very poor,Laptop/Desktop,4,0,7,2,Instagram,1,3,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R880,Outside Delhi-NCR,19,10,Average,Laptop/Desktop,3,1,5,1,Instagram,0.5,4,Remain Constant,NO,Reading books,NO,NO,"Friends , relatives"
+R881,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,2,0,9,1,Instagram,2,3,Remain Constant,NO,Listening to music,NO,NO,ALL
+R882,Outside Delhi-NCR,20,8,Average,Laptop/Desktop,5,1,5,3,Instagram,0.5,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R883,Outside Delhi-NCR,36,5,Good,Laptop/Desktop,4,1,5,1,Whatsapp,1,2,Remain Constant,NO,Reading,YES,YES,Travelling
+R884,Outside Delhi-NCR,20,4,Very poor,Smartphone,4,0,8,1,Instagram,0,3,Remain Constant,NO,Meditation,NO,NO,Eating outside
+R885,Outside Delhi-NCR,31,4,Good,Laptop/Desktop,3,2,9,2,Linkedin,0,2,Decreased,NO,Talking,YES,YES,Travelling
+R886,Delhi-NCR,22,6,Very poor,Laptop/Desktop,4,0,8,2,Whatsapp,0.5,4,Increased,NO,Sleeping,NO,NO,School/college
+R887,Delhi-NCR,22,5,Average,Smartphone,4,1,8,2,Youtube,1,2,Decreased,NO,Listening to music,YES,YES,Travelling
+R888,Delhi-NCR,28,3,Good,Laptop/Desktop,2,1,8,4,Instagram,1,3,Remain Constant,NO,Reading,YES,YES,Travelling
+R889,Outside Delhi-NCR,16,5,Very poor,Smartphone,1,0,10,3,Whatsapp,0,2,Decreased,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R890,Delhi-NCR,20,2,Average,Smartphone,3,0,12,7,Instagram,1.5,4,Decreased,YES,Scrolling through social media,NO,NO,School/college
+R891,Outside Delhi-NCR,21,2,Very poor,Smartphone,4,0,8,1,Whatsapp,2,3,Increased,YES,Listening to music,NO,NO,Roaming around freely
+R892,Delhi-NCR,19,4,Average,Laptop/Desktop,3,2,7,4,Instagram,0,3,Decreased,NO,Online gaming,NO,YES,Travelling
+R893,Delhi-NCR,20,6,Average,Laptop/Desktop,2,1,8,2,Instagram,1,3,Remain Constant,NO,Sleeping,YES,YES,Roaming around freely
+R894,Outside Delhi-NCR,14,2,Good,Smartphone,2,1,8,3,Whatsapp,1,3,Increased,NO,Sleeping,NO,YES,School/college
+R895,Outside Delhi-NCR,26,1,Average,Smartphone,3,1,8,4,Youtube,0,3,Decreased,YES,Watching web series,NO,YES,Roaming around freely
+R896,Delhi-NCR,21,3,Very poor,Laptop/Desktop,2,0,8,6,Instagram,5,4,Increased,NO,Listening to music,NO,YES,Roaming around freely
+R897,Outside Delhi-NCR,34,1,Good,Smartphone,3,0.5,7,0,None,1,1,Remain Constant,NO,Listening to music,NO,NO,Colleagues
+R898,Delhi-NCR,19,5,Very poor,Smartphone,2,0,6,3,Instagram,0,1,Increased,NO,Online gaming,NO,YES,Travelling
+R899,Delhi-NCR,19,8,Very poor,Laptop/Desktop,2,1,6,2,Whatsapp,0,3,Remain Constant,NO,Sleeping,NO,NO,Roaming around freely
+R900,Outside Delhi-NCR,21,7,Good,Any Gadget,7,0,10,3,Whatsapp,0,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R901,Outside Delhi-NCR,23,4,Very poor,Laptop/Desktop,1,0,7,8,Facebook,2,3,Decreased,NO,Online surfing,NO,YES,Travelling
+R902,Delhi-NCR,19,5,Very poor,Smartphone,2,0,7,3,Instagram,0,3,Increased,NO,Scrolling through social media,YES,YES,Eating outside
+R903,Delhi-NCR,27,1,Average,Laptop/Desktop,2,0,8,3,Instagram,2,3,Increased,NO,Cooking,YES,YES,Travelling
+R904,Outside Delhi-NCR,33,3,Average,Smartphone,1,0,6,1,Whatsapp,4,2,Decreased,YES,Sleeping,NO,YES,Roaming around freely
+R905,Outside Delhi-NCR,21,5,Average,Smartphone,3,1,11,3,Youtube,2,3,Remain Constant,NO,Cooking,NO,NO,School/college
+R906,Outside Delhi-NCR,21,2,Very poor,Smartphone,3,0,8,4,Whatsapp,1,3,Remain Constant,NO,Watching web series,NO,NO,All
+R907,Outside Delhi-NCR,24,0,Very poor,Smartphone,1,0,5,4,Linkedin,6,3,Decreased,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R908,Outside Delhi-NCR,23,0,Good,Laptop/Desktop,0,0,8,3,Youtube,0,1,Remain Constant,NO,Social Media,NO,NO,Gym
+R909,Delhi-NCR,20,5,Good,Laptop/Desktop,1,1,8,1,Instagram,1,4,Decreased,NO,Listening to music,YES,YES,Colleagues
+R910,Outside Delhi-NCR,29,10,Good,Laptop/Desktop,7,1,6,7,Whatsapp,2,2,Remain Constant,NO,Web Series,YES,YES,Eating outside
+R911,Outside Delhi-NCR,20,4,Average,Laptop/Desktop,1,1,10,5,Instagram,0.3,3,Decreased,NO,Online surfing,YES,YES,Travelling
+R912,Delhi-NCR,21,1,Good,Smartphone,5,0,7,2,Linkedin,2,2,Remain Constant,NO,Dancing,NO,NO,School/college
+R913,Outside Delhi-NCR,21,6,Average,Laptop/Desktop,2,1,8,5,Instagram,2,2,Increased,NO,Reading books,NO,YES,Roaming around freely
+R914,Delhi-NCR,19,7,Average,Laptop/Desktop,1,1,5,6,Instagram,1,3,Remain Constant,NO,Dancing,NO,YES,"Friends , relatives"
+R915,Delhi-NCR,19,5,Average,Smartphone,6,2,5,4,Instagram,0,3,Remain Constant,NO,Scrolling through social media,YES,YES,School/college
+R916,Delhi-NCR,39,2,Excellent,Tablet,1,1,7,1,Whatsapp,0.5,3,Remain Constant,NO,Cooking,NO,YES,"Friends , relatives"
+R917,Outside Delhi-NCR,20,3,Average,Smartphone,2,0,8,1,Facebook,1,3,Remain Constant,NO,Meditation,NO,YES,School/college
+R918,Delhi-NCR,19,5,Average,Laptop/Desktop,2,0.5,8,2,Whatsapp,1,3,Increased,NO,Listening to music,NO,YES,Roaming around freely
+R919,Outside Delhi-NCR,23,2,Average,Laptop/Desktop,6,2,7,4,Facebook,2,4,Remain Constant,NO,Online surfing,YES,YES,Roaming around freely
+R920,Outside Delhi-NCR,21,5,Average,Laptop/Desktop,2,0,10,2,Whatsapp,0.5,3,Increased,NO,Listening to music,YES,NO,School/college
+R921,Outside Delhi-NCR,10,5,Average,Laptop/Desktop,2,1,9,1.5,Whatsapp,1,4,Increased,NO,Online gaming,YES,YES,everything
+R922,Delhi-NCR,14,5,Average,Tablet,1,1,9,1,Youtube,4,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R923,Outside Delhi-NCR,9,5,Excellent,Smartphone or Laptop/Desktop,2,0.6,7,1,Whatsapp,0,4,Remain Constant,NO,Online gaming,YES,YES,Eating outside
+R924,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,3,1,7,1,Twitter,2,3,Decreased,NO,Online gaming,YES,YES,Roaming around freely
+R925,Outside Delhi-NCR,13,4,Good,Laptop/Desktop,2,0,10,3,Youtube,0,4,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R926,Delhi-NCR,23,2,Very poor,Smartphone,2,1,6,3,Whatsapp,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R927,Delhi-NCR,13,5,Very poor,Smartphone,1,0.6,7,4,Youtube,2,4,Decreased,NO,Listening to music,NO,YES,School/college
+R928,Outside Delhi-NCR,21,1,Good,Laptop/Desktop,3,1,10,3,Instagram,1,3,Increased,NO,Social Media,YES,YES,School/college
+R929,Outside Delhi-NCR,34,3,Average,Smartphone,6,0,6,1,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R930,Delhi-NCR,14,9,Good,Smartphone,2,1,9,1,Instagram,0,2,Remain Constant,NO,Online gaming,YES,YES,Colleagues
+R931,Delhi-NCR,32,2,Average,Smartphone,2,1,6,1,Youtube,0,1,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R932,Outside Delhi-NCR,21,3,Average,Smartphone,2,1,8,6,Whatsapp,3,2,Remain Constant,NO,Painting,NO,YES,School/college
+R933,Delhi-NCR,19,3,Excellent,Smartphone,0,1,6,4,Facebook,1,3,Remain Constant,NO,Listening to music,YES,NO,School/college
+R934,Outside Delhi-NCR,14,5,Average,Tablet,3,1,6,4,Youtube,0,2,Increased,YES,Listening to music,YES,YES,Travelling
+R935,Delhi-NCR,22,1,Average,Smartphone,1,0,9,3,Instagram,0,3,Increased,NO,Listening to music,YES,YES,Eating outside
+R936,Outside Delhi-NCR,26,9,Very poor,Laptop/Desktop,2,0,5,3,Linkedin,1,3,Increased,NO,Reading books,YES,YES,School/college
+R937,Outside Delhi-NCR,21,2,Very poor,Smartphone,2,0,7,1,Youtube,1,3,Remain Constant,YES,Listening to music,NO,YES,School/college
+R938,Delhi-NCR,22,1,Very poor,Laptop/Desktop,6,0,6,2,Whatsapp,0,2,Increased,YES,Watching web series,YES,YES,Travelling
+R939,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,3,1,8,6,Instagram,2,3,Remain Constant,NO,Dancing,YES,YES,Travelling
+R940,Outside Delhi-NCR,40,5,Excellent,Laptop/Desktop,4,1,7,6,Linkedin,2,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R941,Outside Delhi-NCR,15,2,Good,Laptop/Desktop,2,0,11,5,Youtube,0,3,Remain Constant,NO,Web Series,NO,YES,Nothing
+R942,Delhi-NCR,16,3,Average,Smartphone,3,0,10,5,Instagram,3,4,Remain Constant,NO,Listening to music,NO,YES,Eating outside
+R943,Outside Delhi-NCR,20,4,Very poor,Smartphone,3,1,8,5,Youtube,2,4,Increased,NO,Reading books,YES,YES,Roaming around freely
+R944,Outside Delhi-NCR,22,2,Very poor,Laptop/Desktop,1,0,8,4,Whatsapp,0,2,Remain Constant,NO,Online gaming,NO,YES,"Friends , relatives"
+R945,Outside Delhi-NCR,22,4,Average,Laptop/Desktop,6,0,8,5,Instagram,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R946,Delhi-NCR,23,2,Good,Smartphone,7,0,7,4,Instagram,1,4,Increased,NO,Dancing,NO,YES,Travelling
+R947,Delhi-NCR,21,4,Good,Laptop/Desktop,10,1,7,3,Whatsapp,0,3,Remain Constant,YES,Listening to music,NO,YES,Travelling
+R948,Outside Delhi-NCR,17,3,Average,Smartphone,2,1,8,5,Whatsapp,3.5,1,Remain Constant,NO,Watching web series,YES,YES,School/college
+R949,Delhi-NCR,24,0,Average,Laptop/Desktop,10,1,8,1,Whatsapp,0,3,Increased,NO,Talking to your relatives,YES,YES,School/college
+R950,Delhi-NCR,19,1,Average,Smartphone,0,0,8,6,Instagram,2,2,Decreased,YES,Online gaming,NO,NO,Eating outside
+R951,Delhi-NCR,23,10,Average,Laptop/Desktop,1,0,8,8,Youtube,1,3,Decreased,NO,Watching web series,YES,YES,Travelling
+R952,Delhi-NCR,21,6,Average,Smartphone,2,1,7,3,Whatsapp,1,3,Decreased,NO,Reading books,YES,YES,"Friends , relatives"
+R953,Delhi-NCR,14,6,Good,Tablet,2,0,8.3,1,Youtube,2.5,3,Increased,NO,Online gaming,NO,YES,All
+R954,Outside Delhi-NCR,14,3,Good,Smartphone,1,0,8,3,Youtube,1,4,Remain Constant,NO,Web Series,NO,YES,Colleagues
+R955,Delhi-NCR,23,2,Average,Laptop/Desktop,6,1,7,2,Linkedin,1,3,Increased,NO,Online gaming,NO,YES,School/college
+R956,Delhi-NCR,21,0,NA,NA,1,1,11,8,Instagram,3,3,Increased,NO,Listening to music,NO,YES,Travelling
+R957,Outside Delhi-NCR,33,2,Average,Smartphone,1,0,6,1,Whatsapp,0.5,2,Remain Constant,NO,Meditation,NO,YES,Travelling
+R958,Delhi-NCR,11,4,Good,Smartphone,2,0,9,1,Whatsapp,0,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R959,Delhi-NCR,20,3,Good,Laptop/Desktop,2,1,10,2,Instagram,0,4,Increased,NO,Sleeping,YES,YES,Colleagues
+R960,Outside Delhi-NCR,23,2,Average,Smartphone,2,0.3,8,1,Whatsapp,N,3,Decreased,NO,Meditation,YES,YES,"Friends , relatives"
+R961,Delhi-NCR,20,0,NA,NA,2,0,7,0.5,Twitter,2,2,Remain Constant,NO,Online surfing,NO,YES,Eating outside
+R962,Delhi-NCR,18,0,Poor,Smartphone,0,2,12,1,Twitter,0,7,Increased,NO,Online gaming,NO,YES,Roaming around freely
+R963,Delhi-NCR,21,4,Average,Smartphone,8,0,6,1,Youtube,0,2,Decreased,YES,Online surfing,NO,NO,Travelling
+R964,Delhi-NCR,38,2,Very poor,Laptop/Desktop,4,0,7,3,Whatsapp,1,3,Increased,NO,Scrolling through social media,NO,NO,Roaming around freely
+R965,Delhi-NCR,20,5,Good,Laptop/Desktop,5,0,8,3,Youtube,0,2,Remain Constant,NO,Reading,YES,NO,Colleagues
+R966,Delhi-NCR,21,0,NA,NA,6,1,9,2,Whatsapp,0.5,4,Increased,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R967,Delhi-NCR,11,2,Excellent,Smartphone,1,0,10,3,Youtube,2,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R968,Outside Delhi-NCR,22,0,Good,Laptop/Desktop,4,1,7,3,Instagram,0,3,Increased,NO,Listening to music,NO,YES,Travelling
+R969,Delhi-NCR,23,0,NA,NA,2,2,10,6,Youtube,0,2,Remain Constant,NO,Listening to music,YES,NO,School/college
+R970,Delhi-NCR,21,8,Very poor,Laptop/Desktop,1,1,9,2,Instagram,0,3,Remain Constant,YES,Scrolling through social media,NO,NO,Eating outside
+R971,Delhi-NCR,26,0,Very poor,Smartphone,0,0,12,2,Linkedin,2,2,Remain Constant,YES,Listening to music,NO,NO,School/college
+R972,Outside Delhi-NCR,23,2,Very poor,Laptop/Desktop,1,1,7.5,1,Whatsapp,2,3,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R973,Delhi-NCR,19,3,Average,Smartphone,5,1,6,1,Youtube,0,2,Remain Constant,NO,Reading books,YES,YES,"Friends , relatives"
+R974,Delhi-NCR,21,5,Average,Smartphone,3,1,8,4,Youtube,0,4,Remain Constant,YES,Cooking,NO,NO,School/college
+R975,Delhi-NCR,20,4,Very poor,Laptop/Desktop,3,0,9,2,Instagram,1,2,Remain Constant,NO,Scrolling through social media,YES,NO,School/college
+R976,Outside Delhi-NCR,19,1,Good,Laptop/Desktop,2,0,8,1,Whatsapp,0.3,3,Remain Constant,NO,Dancing,NO,YES,School/college
+R977,Outside Delhi-NCR,20,4,Very poor,Smartphone,2,0,10,1,Instagram,0,3,Decreased,NO,Sleeping,NO,NO,Roaming around freely
+R978,Delhi-NCR,19,2,Average,Laptop/Desktop,3,0.5,8,2,Instagram,1,3,Increased,NO,Watching web series,NO,NO,School/college
+R979,Delhi-NCR,17,4,Good,Laptop/Desktop,2,1,10,6,Whatsapp,4,4,Increased,NO,Listening to music,YES,YES,Colleagues
+R980,Delhi-NCR,20,10,Very poor,Laptop/Desktop,2,1,8,5,Instagram,0,3,Remain Constant,NO,Scrolling through social media,NO,NO,Nothing
+R981,Outside Delhi-NCR,20,4,Good,Smartphone,2,1,8,2,Instagram,0.1,4,Remain Constant,NO,Cooking,YES,YES,School/college
+R982,Outside Delhi-NCR,27,4,Average,Smartphone,2,0,7,8,Youtube,4,3,Increased,NO,Listening to music,NO,YES,Travelling
+R983,Delhi-NCR,18,7,Very poor,Smartphone,4,0,9,2,Instagram,0,2,Decreased,NO,Online surfing,NO,YES,School/college
+R984,Outside Delhi-NCR,18,8,Good,Smartphone,2,0.25,7,1.5,Instagram,1,3,Increased,NO,Talking,NO,NO,School/college
+R985,Outside Delhi-NCR,19,6,Average,Smartphone,4,1,6,5,Whatsapp,2,3,Remain Constant,NO,Online gaming,NO,NO,School/college
+R986,Delhi-NCR,18,5,Very poor,Smartphone,0,0,7,1,Instagram,0.5,3,Decreased,NO,Online gaming,YES,NO,School/college
+R987,Outside Delhi-NCR,20,4,Good,Smartphone,2,1,8,2,Instagram,0.1,4,Remain Constant,NO,Cooking,YES,YES,School/college
+R988,Outside Delhi-NCR,19,6,Very poor,Laptop/Desktop,2,0,8,2,Instagram,0,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R989,Delhi-NCR,19,6,Average,Laptop/Desktop,5,1,7,3,Instagram,0.3,4,Increased,NO,Watching web series,YES,YES,School/college
+R990,Delhi-NCR,18,8,Very poor,Smartphone,0,1,6,5,Whatsapp,0,2,Decreased,NO,Online gaming,NO,YES,Roaming around freely
+R991,Delhi-NCR,18,4,Very poor,Smartphone,0,1,8,2,Instagram,0.3,3,Remain Constant,NO,Sketching,YES,YES,"Friends , relatives"
+R992,Delhi-NCR,19,8,Good,Smartphone,2,2,8,5,Instagram,1,2,Decreased,YES,Dancing,NO,YES,School/college
+R993,Delhi-NCR,26,1,Average,Smartphone,1,0,8,3,Facebook,0,3,Increased,NO,Listening to music,NO,YES,School/college
+R994,Outside Delhi-NCR,18,8,Average,Smartphone,3,1,5,4,Youtube,2,2,Decreased,NO,Listening to music,NO,NO,School/college
+R995,Outside Delhi-NCR,19,2,Good,Smartphone,2,1,8,3,Whatsapp,2,1,Decreased,YES,Listening to music,NO,YES,School/college
+R996,Outside Delhi-NCR,18,5,Average,Smartphone,2,0,6,1,Instagram,0,3,Remain Constant,NO,Talking to your relatives,NO,YES,School/college
+R997,Outside Delhi-NCR,21,2,Average,Laptop/Desktop,1,0,12,3,Instagram,0,2,Increased,NO,Listening to music,NO,YES,School/college
+R998,Outside Delhi-NCR,19,0,Very poor,Laptop/Desktop,8,0,8,10,Instagram,0,3,Remain Constant,YES,Talking to your relatives,YES,YES,"Friends , relatives"
+R999,Outside Delhi-NCR,23,2,Average,Laptop/Desktop,2,2,7,5,Whatsapp,2,2,Remain Constant,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R1000,Outside Delhi-NCR,22,4,Good,Laptop/Desktop,2,0,9,3,Instagram,1,2,Increased,NO,Listening to music,YES,YES,School/college
+R1001,Delhi-NCR,19,8,Average,Smartphone,4,0,6,1,Whatsapp,2,2,Remain Constant,NO,Sleeping,NO,YES,School/college
+R1002,Outside Delhi-NCR,19,6,Good,Laptop/Desktop,2,0,8,10,Instagram,0,4,Increased,NO,Social Media,NO,YES,School/college
+R1004,Delhi-NCR,18,6,Very poor,Smartphone,4,0,7,3,Instagram,0.3,4,Decreased,NO,Online surfing,YES,YES,School/college
+R1005,Outside Delhi-NCR,12,0,Excellent,Smartphone,3,1,8,1,Whatsapp,2,2,Increased,NO,Reading books,YES,YES,School/college
+R1006,Outside Delhi-NCR,18,5,Good,Smartphone,3,2,8,3,Youtube,0,3,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R1007,Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,0,8,2,Youtube,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R1008,Delhi-NCR,19,6,Average,Laptop/Desktop,2,2,6,3,Instagram,0.3,2,Increased,NO,Listening to music,NO,YES,School/college
+R1009,Delhi-NCR,20,3,Very poor,Laptop/Desktop,2,0,7,3,Instagram,0,4,Decreased,YES,Reading books,NO,NO,School/college
+R1010,Outside Delhi-NCR,26,4,Very poor,Smartphone,2,0,7,2,Instagram,0,3,Increased,NO,Listening to music,NO,YES,Travelling
+R1011,Outside Delhi-NCR,20,3,Very poor,Laptop/Desktop,2,1,8,1,Whatsapp,1,4,Increased,NO,Online gaming,NO,YES,School/college
+R1012,Outside Delhi-NCR,23,4,Good,Smartphone,2,1,7,3,Linkedin,1,3,Remain Constant,YES,Cooking,YES,YES,Colleagues
+R1013,Delhi-NCR,26,4,Very poor,Smartphone,3,1,7,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R1014,Delhi-NCR,19,4,Average,Laptop/Desktop,2,0.5,8,2,Whatsapp,1,2,Remain Constant,NO,Watching web series,NO,NO,"Friends , relatives"
+R1015,Outside Delhi-NCR,22,0,Good,Laptop/Desktop,2,1,9,2,Instagram,2,2,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1016,Outside Delhi-NCR,23,3,Average,Smartphone,4,1,8,3,Whatsapp,2,3,Remain Constant,NO,Online surfing,YES,NO,School/college
+R1017,Delhi-NCR,20,2,Good,Smartphone,3,1,6,2,Whatsapp,3,2,Remain Constant,NO,Sleeping,NO,YES,Travelling
+R1018,Outside Delhi-NCR,29,5,Average,Laptop/Desktop,3,1,8,2,Linkedin,2,3,Remain Constant,NO,Watching web series,YES,YES,Travelling
+R1019,Outside Delhi-NCR,28,5,Good,Laptop/Desktop,4,1,10,2,Whatsapp,1,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1020,Delhi-NCR,32,3,Average,Laptop/Desktop,2,0,6,2,Whatsapp,0.3,3,Increased,YES,Talking to your relatives,YES,YES,"Friends , relatives"
+R1021,Outside Delhi-NCR,21,0,Poor,Smartphone,1,2,7,2,Instagram,0.5,4,Decreased,NO,Meditation,YES,YES,Travelling
+R1022,Outside Delhi-NCR,24,1,Good,Smartphone,3,2,8,2,Youtube,0,2,Remain Constant,NO,Social Media,YES,YES,Eating outside
+R1023,Delhi-NCR,25,0,Good,Laptop/Desktop,4,1,8,2,Whatsapp,0,2,Remain Constant,YES,Web Series,NO,YES,Travelling
+R1024,Delhi-NCR,32,4,Average,Laptop/Desktop,4,1,6,0.3,Whatsapp,0,3,Remain Constant,NO,Cooking,YES,YES,School/college
+R1025,Delhi-NCR,35,1,Good,Smartphone,3,1,7,2,Whatsapp,0,2,Remain Constant,NO,Talking,YES,YES,Travelling
+R1026,Delhi-NCR,27,0,Good,Smartphone,2,0,8,2,Youtube,2,3,Remain Constant,NO,Sleeping,NO,YES,Travelling
+R1027,Delhi-NCR,36,3,Average,Laptop/Desktop,2,0,10,2,Youtube,0,3,Increased,NO,Watching web series,NO,NO,Travelling
+R1028,Delhi-NCR,22,5,Very poor,Laptop/Desktop,1,1,8,1,Twitter,0.5,3,Decreased,YES,Sleeping,YES,YES,Eating outside
+R1029,Delhi-NCR,20,6,Good,Laptop/Desktop,4,1,6,1,Instagram,0,3,Increased,NO,Listening to music,YES,YES,School/college
+R1030,Outside Delhi-NCR,16,4,Very poor,Smartphone,2,0,9,2,Youtube,0,2,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R1031,Outside Delhi-NCR,38,2,Average,Laptop/Desktop,3,1,5,3,Whatsapp,0,3,Increased,NO,Listening to music,YES,NO,Roaming around freely
+R1032,Delhi-NCR,24,2,Good,Smartphone,0,1,9,5,Instagram,3,4,Increased,NO,Online gaming,YES,YES,Colleagues
+R1033,Outside Delhi-NCR,25,0,Very poor,Smartphone,2,0,7,5,Facebook,0,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R1034,Outside Delhi-NCR,20,2,Very poor,Smartphone,8,1,6,1,Youtube,0,3,Remain Constant,NO,Watching web series,YES,YES,"Friends , relatives"
+R1035,Delhi-NCR,22,2,Very poor,Smartphone,1,0,9,3,Youtube,2,2,Decreased,YES,Listening to music,NO,YES,School/college
+R1036,Delhi-NCR,23,4,Average,Smartphone,3,1,8,2,Whatsapp,0,4,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R1037,Outside Delhi-NCR,24,2,Very poor,Smartphone,6,0,12,4,Twitter,0,4,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R1038,Delhi-NCR,20,0,Average,Smartphone,0,2,9,2,Youtube,0.5,3,Remain Constant,NO,Sports,NO,YES,School/college
+R1040,Outside Delhi-NCR,20,5,Average,Laptop/Desktop,4,1,8,1.5,Instagram,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R1041,Outside Delhi-NCR,19,3,Very poor,Laptop/Desktop,3,0,8,3,Whatsapp,0,3,Remain Constant,YES,Scrolling through social media,NO,NO,Eating outside
+R1042,Outside Delhi-NCR,18,4,Very poor,Laptop/Desktop,1,1,10,3,Whatsapp,1,4,Increased,NO,Reading books,NO,NO,Eating outside
+R1043,Outside Delhi-NCR,20,5,Very poor,Laptop/Desktop,3,0.5,10,3,Whatsapp,2,3,Increased,NO,Sleeping,YES,NO,"Friends , relatives"
+R1044,Outside Delhi-NCR,21,6,Good,Laptop/Desktop,4,1,8,2,Whatsapp,0.5,3,Remain Constant,NO,Web Series,YES,YES,Travelling
+R1045,Outside Delhi-NCR,20,2,Very poor,Laptop/Desktop,1,0,6,1,Twitter,2,3,Decreased,NO,Listening to music,NO,NO,Roaming around freely
+R1046,Outside Delhi-NCR,20,2,Good,Smartphone,2,1,8,2,Instagram,3,3,Decreased,NO,Sleeping,YES,YES,Colleagues
+R1047,Outside Delhi-NCR,21,4,Excellent,Laptop/Desktop,2,0,8,0.5,Whatsapp,4,3,Increased,YES,Meditation,YES,YES,"Friends , relatives"
+R1048,Delhi-NCR,22,2,Average,Laptop/Desktop,2,1,8,3,Whatsapp,0.5,3,Remain Constant,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R1049,Delhi-NCR,22,2,Very poor,Smartphone,3,1,10,4,Instagram,2,4,Remain Constant,NO,Scrolling through social media,NO,YES,Eating outside
+R1050,Delhi-NCR,21,0,Poor,Smartphone,1,0,7,0,Whatsapp,0,2,Increased,NO,Reading books,YES,YES,"Friends , relatives"
+R1051,Delhi-NCR,19,4,Very poor,Laptop/Desktop,3,0,10,4,Youtube,N,2,Increased,YES,Sleeping,NO,NO,School/college
+R1052,Delhi-NCR,18,2,Average,Smartphone,2,1,8,1.3,Instagram,2,4,Remain Constant,NO,Drawing and painting and sketching,NO,YES,"Friends , relatives"
+R1053,Delhi-NCR,20,3,Very poor,Smartphone,2,0,6,3,Instagram,0,2,Increased,NO,Reading books,YES,NO,Roaming around freely
+R1054,Delhi-NCR,20,3,Average,Smartphone,3,1,11,3,Facebook,0,3,Remain Constant,NO,With a friend,NO,YES,School/college
+R1055,Outside Delhi-NCR,18,0,Good,Smartphone,3,1,7,2,Instagram,1,4,Remain Constant,NO,Meditation,YES,YES,Colleagues
+R1056,Delhi-NCR,31,8,Very poor,Laptop/Desktop,1,0,8,2,Whatsapp,1,2,Remain Constant,NO,Online gaming,NO,YES,Roaming around freely
+R1057,Delhi-NCR,18,6,Very poor,Laptop/Desktop,2,0,8,1,Instagram,0.5,2,Increased,NO,Watching web series,NO,YES,School/college
+R1058,Outside Delhi-NCR,23,2,Good,Smartphone,1,1,5,2,None,1,2,Decreased,NO,Cooking,YES,YES,Nothing
+R1059,Outside Delhi-NCR,20,3,Average,Laptop/Desktop,2,0,9,5,Youtube,0,4,Increased,NO,Scrolling through social media,NO,NO,Eating outside
+R1060,Delhi-NCR,33,4,Average,Smartphone,2,1,6,4,Youtube,1,3,Increased,YES,Talking to your relatives,YES,YES,School/college
+R1061,Delhi-NCR,24,2,Average,Smartphone,4,0,6,3,Instagram,0,4,Increased,NO,Watching web series,NO,YES,Travelling
+R1062,Outside Delhi-NCR,17,5,Very poor,Laptop/Desktop,0.5,0.3,7.5,0.5,Youtube,0.3,3,Remain Constant,NO,Online gaming,YES,NO,Travelling
+R1063,Outside Delhi-NCR,15,4,Average,Laptop/Desktop,3,0,8,2,Instagram,1,3,Remain Constant,NO,Painting,YES,YES,Eating outside
+R1064,Outside Delhi-NCR,17,4,Average,Laptop/Desktop,5,2,7,0.4,Youtube,0.5,3,Remain Constant,NO,"Reading books, music, exercise",NO,YES,Friends and roaming around freely
+R1065,Outside Delhi-NCR,16,4,Excellent,Smartphone or Laptop/Desktop,3,1,8,5,Youtube,5,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R1066,Outside Delhi-NCR,15,8,Average,Tablet,4,0,5,2,Youtube,1,3,Remain Constant,NO,Watching ted talks and music and books,YES,NO,School/college
+R1067,Outside Delhi-NCR,16,8,Good,Smartphone,5,0,9,1,Youtube,0,2,Increased,NO,Social Media,NO,NO,Colleagues
+R1068,Outside Delhi-NCR,16,5,Average,Laptop/Desktop,2,1,10,1,None,2,4,Increased,NO,Listening to music,YES,YES,Travelling
+R1069,Outside Delhi-NCR,15,7,Good,Smartphone,3,2,6,0,Whatsapp,1,3,Remain Constant,NO,Sleeping,NO,YES,School/college
+R1070,Outside Delhi-NCR,16,5,Very poor,Smartphone,1,2,10,1.5,Instagram,0,3,Remain Constant,NO,Online gaming,NO,NO,Roaming around freely
+R1071,Delhi-NCR,16,4,Very poor,Smartphone,4,1,7,2,Instagram,0,3,Remain Constant,NO,Watching web series,NO,YES,"Friends , relatives"
+R1072,Delhi-NCR,16,7,Good,Tablet,3,0,8,0.5,Whatsapp,0,2,Decreased,NO,Listening to music,NO,NO,All
+R1073,Outside Delhi-NCR,30,2,Very poor,Laptop/Desktop,0,1,8,1,Youtube,8,4,Increased,NO,Watching web series,NO,NO,NOTHING
+R1074,Outside Delhi-NCR,16,5,Very poor,Smartphone,2,0.5,7,1,Youtube,2,3,Remain Constant,NO,Calling friends,NO,YES,"Friends , relatives"
+R1075,Delhi-NCR,15,5,Average,Laptop/Desktop,4,1,8,2,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1076,Delhi-NCR,16,4,Average,Laptop/Desktop,8,1,8,0.5,Youtube,0.5,4,Decreased,NO,Listening to music,YES,YES,School/college
+R1077,Delhi-NCR,15,4,Very poor,Laptop/Desktop,4,0,5,4,Youtube,0,3,Decreased,NO,Online gaming,NO,NO,School/college
+R1078,Delhi-NCR,15,4,Good,Smartphone,4,1,7,2,Youtube,1,4,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1079,Delhi-NCR,15,8,Very poor,Smartphone,2,0,8,1,Youtube,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R1080,Delhi-NCR,16,7,Good,Smartphone,2,0,8,0.5,Youtube,1.5,3,Remain Constant,NO,Talking,NO,YES,School/college
+R1081,Delhi-NCR,15,3,Average,Smartphone,4,0.5,7,1,Instagram,1.5,4,Increased,NO,Listening to music,YES,YES,Eating outside
+R1082,Outside Delhi-NCR,16,8,Average,Laptop/Desktop,1,0.3,8,0,Telegram,0,2,Increased,YES,no stress,NO,NO,"Friends , relatives"
+R1083,Delhi-NCR,16,7,Average,Laptop/Desktop,3,0,8,3,Youtube,2,2,Remain Constant,NO,"Drawing, painting",NO,NO,School/college
+R1084,Delhi-NCR,15,4,Average,Laptop/Desktop,4,1,7,1,Whatsapp,1.5,3,Remain Constant,NO,Reading books,YES,YES,"Friends , relatives"
+R1085,Delhi-NCR,16,8,Average,Laptop/Desktop,8,0,7,2,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R1087,Delhi-NCR,15,5,Excellent,Laptop/Desktop,4,0.5,8,0,None,1,3,Remain Constant,NO,Sleeping,YES,YES,"Friends , relatives"
+R1088,Delhi-NCR,16,8,Average,Smartphone,4,0,5,8,Whatsapp,3,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1089,Delhi-NCR,16,8,Good,Laptop/Desktop,4,0,7,2,Whatsapp,0,2,Increased,NO,Social Media,NO,YES,School/college
+R1090,Delhi-NCR,16,4,Good,Smartphone,4,1,7,2,Whatsapp,1,2,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R1091,Delhi-NCR,16,7,Good,Smartphone,3,0,7,2,Instagram,1,2,Increased,NO,Listening to music,NO,YES,Colleagues
+R1092,Delhi-NCR,16,6,Average,Laptop/Desktop,1,0.5,9,1,Whatsapp,1,2,Decreased,NO,All reading books watching web series listening to music and talking to friends,NO,YES,"Friends , relatives"
+R1093,Delhi-NCR,17,6,Average,Smartphone,1,0,8,1,Reddit,0,2,Remain Constant,NO,Online gaming,NO,NO,Metro
+R1094,Delhi-NCR,16,8,Very poor,Smartphone,5,1,8,1,Facebook,1,3,Remain Constant,NO,Sleeping,YES,YES,"Friends , relatives"
+R1095,Delhi-NCR,16,4,Average,Laptop/Desktop,1,1,9,2,Youtube,0.4,4,Remain Constant,NO,Online gaming,YES,NO,"Friends , relatives"
+R1096,Delhi-NCR,15,9,Excellent,Laptop/Desktop,10,0.5,6,0,Whatsapp,2,3,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R1097,Delhi-NCR,17,3,Very poor,Smartphone,6,0,8,2,Youtube,0,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1098,Delhi-NCR,16,6,Very poor,Smartphone,3,1,10,1,Youtube,0.5,3,Remain Constant,NO,Sleeping,YES,YES,ALL
+R1099,Delhi-NCR,16,8,Average,Laptop/Desktop,0,0,6,6,Instagram,0,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R1100,Delhi-NCR,16,8,Average,Laptop/Desktop,1,0,8,1,Youtube,2,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1101,Delhi-NCR,15,5,Very poor,Smartphone,3,1,9,3,Instagram,0,3,Decreased,NO,Scrolling through social media,YES,YES,Eating outside
+R1102,Delhi-NCR,16,4,Good,Smartphone,3,1,8,1,Whatsapp,1,4,Remain Constant,NO,Talking,YES,NO,Eating outside
+R1103,Delhi-NCR,17,4,Very poor,Laptop/Desktop,0,1,7,1,Youtube,3,4,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R1104,Delhi-NCR,25,5,Average,Laptop/Desktop,1,3,6,5,Instagram,0,3,Decreased,NO,Watching web series,YES,YES,Travelling
+R1105,Delhi-NCR,20,0,Very poor,Smartphone,6,1,9,3,Youtube,0,3,Increased,NO,Listening to music,YES,YES,Travelling
+R1106,Delhi-NCR,16,5,Very poor,Smartphone,2,1,8,1,Whatsapp,4,2,Increased,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R1107,Delhi-NCR,16,4,Very poor,Smartphone,5,1,7,1,Instagram,1,3,Increased,NO,Online surfing,YES,NO,Roaming around freely
+R1108,Delhi-NCR,15,5,Good,Laptop/Desktop,2,2,6,0.5,Whatsapp,2,3,Remain Constant,NO,Social Media,NO,NO,Travelling
+R1109,Delhi-NCR,16,4,Very poor,Smartphone,2,2,6,5,Youtube,0,4,Increased,NO,Sleeping,NO,YES,School/college
+R1110,Delhi-NCR,24,6,Average,Smartphone,6,0,7,2,Youtube,No tv,3,Decreased,NO,Do some home related stuff,YES,NO,Travelling
+R1111,Delhi-NCR,16,5,Excellent,Smartphone,1,1,11,0,Whatsapp,2,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R1112,Delhi-NCR,16,5,Average,Laptop/Desktop,4,0,6,1,Instagram,0,3,Remain Constant,NO,Painting ,YES,YES,"Friends , relatives"
+R1113,Delhi-NCR,16,5,Average,Smartphone,2,1,10,1,Whatsapp,0.5,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R1114,Outside Delhi-NCR,15,6,Average,Smartphone,1,1,9,1,Instagram,2,3,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R1115,Outside Delhi-NCR,17,2,Very poor,Tablet,8,3,5,0,Youtube,1,4,Increased,NO,Youtube,NO,YES,School/college
+R1116,Delhi-NCR,16,5,Average,Laptop/Desktop,8,2,5,2,Youtube,0,4,Remain Constant,NO,Taking with parents,YES,YES,School/college
+R1117,Delhi-NCR,12,5,Good,Tablet,1,0,7,4,Youtube,0,2,Increased,NO,Online gaming,YES,YES,School/college
+R1118,Delhi-NCR,14,4,Excellent,Smartphone,2,1,9,1,Whatsapp,2,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1119,Outside Delhi-NCR,13,4,Excellent,Smartphone,3,0.25,8,1,Youtube,0.5,1,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R1120,Outside Delhi-NCR,12,5,Good,Smartphone,5,0,6,1,Youtube,2,2,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R1121,Delhi-NCR,15,6,Average,Smartphone,11,0.25,7,5,Youtube,0,4,Increased,NO,"Online gaming , surfing and listening to music ",YES,YES,Travelling
+R1122,Delhi-NCR,13,5,Excellent,Tablet,4,1,8,0,Youtube,0.5,4,Remain Constant,NO,Listening to music,YES,NO,School/college
+R1123,Outside Delhi-NCR,12,4,Good,Tablet,1,1,9,1,Youtube,3,3,Increased,NO,Listening to music,NO,YES,Colleagues
+R1124,Outside Delhi-NCR,13,6,Good,Smartphone,2,2,6,1,Youtube,1,1,Decreased,NO,Listening to music,YES,YES,Colleagues
+R1125,Delhi-NCR,16,4,Good,Laptop/Desktop,1,1,7,1,Instagram,3,2,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R1126,Delhi-NCR,12,4,Excellent,Smartphone,2,1,6,0,Youtube,2,2,Remain Constant,YES,Listening to music,YES,YES,"Friends , relatives"
+R1127,Delhi-NCR,14,4,Good,Smartphone,3.5,0,9,2,Youtube,3,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1128,Delhi-NCR,13,8,Good,Smartphone,3,1,13,1,Whatsapp,2,2,Increased,NO,Meditation,NO,YES,Colleagues
+R1129,Delhi-NCR,13,6,Average,Laptop/Desktop,2,0,5,1,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,"Friends , relatives"
+R1130,Delhi-NCR,14,6,Average,Laptop/Desktop,8,1,8,1,Youtube,0.1,2,Remain Constant,NO,Scrolling through social media,NO,NO,Roaming around freely
+R1131,Delhi-NCR,14,4,Average,Smartphone,0,1,9,3,Youtube,1,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1132,Delhi-NCR,14,6,Good,Smartphone,3,1,7,1,Whatsapp,1,4,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1133,Delhi-NCR,14,6,Average,Smartphone,2,1,4,1,Youtube,2,3,Remain Constant,NO,Dancing,YES,NO,"Friends , relatives"
+R1134,Delhi-NCR,14,4,Excellent,Smartphone,2,2,12,1,Whatsapp,2,3,Decreased,NO,Watching web series,YES,YES,School/college
+R1135,Outside Delhi-NCR,13,5,Good,Tablet,4,1,8,1,Youtube,0,2,Decreased,NO,Listening to music,YES,NO,Colleagues
+R1136,Delhi-NCR,18,7,Average,Smartphone,4,0,6,1,Whatsapp,0,2,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R1137,Delhi-NCR,13,3,Good,Tablet,4,1,7,1,Youtube,3,3,Increased,NO,Online gaming,NO,YES,School/college
+R1138,Delhi-NCR,14,6,Average,Smartphone,3,1,10,1,Whatsapp,2,4,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1139,Delhi-NCR,13,3,Very poor,Smartphone,1,2,7,3,Youtube,2,3,Remain Constant,NO,Online gaming,NO,YES,Nothing
+R1140,Delhi-NCR,13,4,Average,Smartphone,2,1,8,2,Youtube,5,3,Remain Constant,NO,I play Rubiks cube,NO,YES,ALL
+R1141,Delhi-NCR,12,5.5,Good,Smartphone,2,1,7,3,Youtube,1,2,Remain Constant,NO,Social Media,YES,YES,School/college
+R1142,Delhi-NCR,11,4,Excellent,Smartphone,2,0,11,1,Whatsapp,2,2,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R1143,Delhi-NCR,12,6,Excellent,Tablet,2,0.5,9,1,Whatsapp,1,3,Increased,NO,Youtube,YES,YES,"Friends , relatives"
+R1144,Delhi-NCR,13,2,Good,Smartphone,2,1,6,1,Whatsapp,0,2,Decreased,NO,Listening to music,NO,YES,Eating outside
+R1145,Delhi-NCR,14,6,Good,Laptop/Desktop,3,1,6,1,Youtube,1,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1146,Delhi-NCR,16,4,Average,Smartphone,2,0,5,1,Youtube,1,3,Increased,NO,Online gaming,YES,NO,Travelling
+R1147,Delhi-NCR,10,4,Good,Smartphone,2,1,7,0,None,1,3,Remain Constant,NO,Talking,YES,YES,School/college
+R1148,Delhi-NCR,13,5,Excellent,Smartphone,3,1,8,2,Youtube,1,2,Increased,NO,Reading books,YES,YES,School/college
+R1149,Outside Delhi-NCR,12,4,Average,Smartphone,1,1,8,2,Youtube,0.5,2,Remain Constant,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R1150,Delhi-NCR,15,8,Good,Laptop/Desktop,1.5,0.5,8,0.5,Whatsapp,0.3,3,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R1151,Delhi-NCR,14,5,Average,Smartphone or Laptop/Desktop,2,0,9,0.5,Whatsapp,0.5,4,Increased,YES,Listening to music,YES,YES,Travelling
+R1152,Delhi-NCR,14,3,Average,Smartphone,1,1,10,1,Whatsapp,2,2,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R1153,Delhi-NCR,13,4,Average,Smartphone,1,0,10,1,None,1,2,Remain Constant,NO,Online gaming,NO,YES,"Friends , relatives"
+R1154,Delhi-NCR,15,4,Very poor,Smartphone,2,1,9,0.5,Instagram,2,4,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R1155,Outside Delhi-NCR,17,6,Very poor,Smartphone,3,1,7,1,Instagram,1,2,Decreased,NO,Gym,NO,YES,School and friends.
+R1156,Outside Delhi-NCR,22,5,Average,Laptop/Desktop,4,0,8,3,Linkedin,0,2,Increased,NO,Talking to your relatives,NO,YES,School/college
+R1157,Outside Delhi-NCR,13,6,Good,Smartphone,2,0,11,1,Whatsapp,0.5,3,Remain Constant,NO,Online gaming,YES,YES,Colleagues
+R1158,Outside Delhi-NCR,11,5,Average,Smartphone,2,1,8,1,Whatsapp,0.5,1,Decreased,NO,Watching web series,YES,NO,School/college
+R1159,Delhi-NCR,13,4,Good,Smartphone,1,0.5,7,1,Instagram,2,4,Increased,NO,Listening to music,YES,YES,School/college
+R1160,Outside Delhi-NCR,14,5,Excellent,Smartphone,2,0,12,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R1161,Delhi-NCR,12,6,Good,Laptop/Desktop,2,2,8,7,Snapchat,2,3,Remain Constant,NO,Social Media,YES,YES,Eating outside
+R1162,Delhi-NCR,13,4,Excellent,Laptop/Desktop,4,1,8,0,Whatsapp,1,2,Remain Constant,NO,Listening to music and reading books both . ,YES,YES,ALL
+R1164,Delhi-NCR,12,4,Good,Smartphone,2,1,8,0,Whatsapp,3,4,Remain Constant,NO,Meditation,YES,YES,Colleagues
+R1165,Delhi-NCR,12,5,Excellent,Laptop/Desktop,3,1,7,0,None,2,2,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R1166,Delhi-NCR,13,6,Excellent,Smartphone,7,0,5,0,Youtube,0,3,Remain Constant,NO,"Poetry, writing books and novels , listening to music too",YES,NO,Nothing
+R1167,Outside Delhi-NCR,14,6,Excellent,Laptop/Desktop,1,2,7,1,Whatsapp,1,4,Increased,NO,Sleeping,YES,YES,Roaming around freely
+R1168,Delhi-NCR,14,6,Good,Smartphone,2,1,8,1,Whatsapp,1,1,Decreased,NO,Social Media,NO,YES,Colleagues
+R1169,Delhi-NCR,12,6,Excellent,Smartphone,5,1,8,2,Youtube,1,2,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1171,Delhi-NCR,14,6,Average,Smartphone,2,0.5,10,1,Whatsapp,1,3,Remain Constant,NO,Sleeping,YES,YES,School and my school friends
+R1172,Delhi-NCR,14,3,Excellent,Smartphone,5,2,12,0.25,Whatsapp,0,3,Increased,NO,Sleeping,YES,YES,School/college
+R1173,Delhi-NCR,12,4,Excellent,Smartphone,3,2,10,1,WhatsApp,1,4,Increased,NO,Sleeping,YES,YES,"Friends , relatives"
+R1174,Delhi-NCR,14,4,Excellent,Smartphone,2,1,6,1,Whatsapp,1,2,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1175,Delhi-NCR,13,6,Very poor,Laptop/Desktop,3,1,8,2,Whatsapp,2,3,Decreased,NO,Listening to music,YES,NO,"Friends , relatives"
+R1176,Delhi-NCR,12,5,Excellent,Smartphone,2,1,12,0,Youtube,1,3,Remain Constant,NO,Dancing,YES,YES,"Friends , relatives"
+R1177,Delhi-NCR,13,5,Excellent,Laptop/Desktop,4,1,8,1,Whatsapp,1.5,3,Decreased,NO,Listening to music,YES,YES,School/college
+R1178,Delhi-NCR,12,4,Very poor,Smartphone,1.5,0,9,5,Youtube,1,4,Increased,NO,Painting,NO,YES,"Friends , relatives"
+R1179,Delhi-NCR,13,6,Excellent,Laptop/Desktop,2,0.5,9,1,Whatsapp,3,4,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R1180,Delhi-NCR,12,6,Average,Smartphone,3,1,9,1,Whatsapp,1,4,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R1181,Delhi-NCR,12,5,Good,Laptop/Desktop,2,0,8,2,Youtube,1,3,Remain Constant,NO,Listening to music,YES,NO,Colleagues
+R1182,Delhi-NCR,13,6,Good,Tablet,2,1,6,1,Youtube,2,3,Decreased,NO,Dancing,YES,YES,Colleagues
+R1183,Delhi-NCR,16,7.5,Good,Laptop/Desktop,4.5,0,6,0.5,Whatsapp,2,4,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R1184,Outside Delhi-NCR,13,5,Excellent,Laptop/Desktop,6,1,6,0,Youtube,0,4,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1185,Delhi-NCR,13,4,Good,Smartphone,4,1,8,1,Whatsapp,2,3,Decreased,NO,Reading,YES,YES,School/college
+R1186,Delhi-NCR,15,5,Average,Smartphone,2,1,13,1,Youtube,1,2,Remain Constant,NO,Online surfing,NO,YES,School/college
+R1187,Delhi-NCR,12,6,Excellent,Laptop/Desktop,3,1,9,4,Youtube,3,4,Remain Constant,NO,Talking to your relatives,YES,YES,School/college
+R1188,Delhi-NCR,13,8,Average,Laptop/Desktop,2,1,7,1,Whatsapp,1,3,Decreased,NO,Cooking,YES,YES,Travelling
+R1189,Delhi-NCR,15,5,Good,Tablet,4,1,7,2,Whatsapp,0,4,Increased,NO,Social Media,NO,YES,Travelling
+R1190,Delhi-NCR,13,3,Very poor,Smartphone,1,0.5,8,3,Youtube,1,3,Remain Constant,NO,Watching YouTube ,NO,NO,School/college
+R1191,Delhi-NCR,12,3,Good,Smartphone,4,1,8,1,Instagram,2,3,Decreased,NO,Dancing,YES,YES,Travelling
+R1192,Delhi-NCR,14,6,Average,Smartphone,4,1,9,1,Whatsapp,1,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1193,Delhi-NCR,13,4,Average,Smartphone,0,0.5,8,3,Youtube,2,4,Decreased,NO,Online gaming,NO,YES,School/college
+R1194,Delhi-NCR,14,5,Excellent,Laptop/Desktop,3.5,1,8,0.5,Youtube,1,4,Remain Constant,NO,Reading books,YES,YES,School/college
+R1195,Delhi-NCR,13,5,Good,Tablet,2,0.5,7,1,Whatsapp,1,3,Remain Constant,NO,Talking,YES,YES,School/college
